@@ -24,8 +24,11 @@ def retrieve(query_text, top_k=TOP_K):
     model = load_model()
 
     with torch.no_grad():
-        q_emb = model.encode_text([query_text], task="retrieval")
-        q_emb = np.array(q_emb).astype("float32")
+        q_emb = model.encode_text([query_text], task="retrieval", return_numpy=True)
+        
+        if not isinstance(q_emb, np.ndarray):
+                # Manual fallback if return_numpy=True isn't supported in your version
+                q_emb = q_emb.detach().cpu().numpy()
 
     faiss.normalize_L2(q_emb)
     # Important for IVF: set nprobe
