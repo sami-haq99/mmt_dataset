@@ -41,13 +41,12 @@ def main():
             batch_paths = image_paths[i:i+BATCH_SIZE]
             images = [load_image(p) for p in batch_paths]
 
-            emb = model.encode_image(images, task="retrieval")
+            emb = model.encode_image(images, task="retrieval.passage", return_numpy=True)
 
-            if isinstance(emb, list):
-                emb = np.array(emb).astype("float32")
-            else:
-                emb = emb.detach().cpu().numpy().astype("float32")
-
+            if not isinstance(emb, np.ndarray):
+                # Manual fallback if return_numpy=True isn't supported in your version
+                emb = emb.detach().cpu().numpy()
+            
             embeddings.append(emb)
 
     embeddings = np.vstack(embeddings).astype("float32")
