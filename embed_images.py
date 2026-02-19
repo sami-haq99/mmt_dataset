@@ -41,7 +41,7 @@ def main():
             batch_paths = image_paths[i:i+BATCH_SIZE]
             images = [load_image(p) for p in batch_paths]
 
-            emb = model.encode_image(images)
+            emb = model.encode_image(images, task="retrieval")
             embeddings.append(emb.cpu().numpy())
 
     embeddings = np.vstack(embeddings).astype("float32")
