@@ -42,8 +42,11 @@ def main():
             images = [load_image(p) for p in batch_paths]
 
             emb = model.encode_image(images, task="retrieval")
-            
-            emb = np.array(emb).astype("float32")
+
+            if isinstance(emb, list):
+                emb = np.array(emb).astype("float32")
+            else:
+                emb = emb.detach().cpu().numpy().astype("float32")
 
             embeddings.append(emb)
 
