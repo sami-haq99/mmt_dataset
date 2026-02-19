@@ -8,7 +8,7 @@ def main():
         EMBEDDING_FILE,
         dtype="float32",
         mode="r",
-        shape=(241, EMBEDDING_DIM)
+        shape=(265, EMBEDDING_DIM)
     )
     print("Embedding shape:", embeddings.shape)
 
