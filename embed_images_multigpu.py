@@ -77,7 +77,7 @@ def main():
     # Batch embedding
     with torch.no_grad():
         for images, indices in tqdm(dataloader, total=len(dataloader)):
-            emb = model.module.encode_image(images, task="retrieval") \
+            emb = model.module.encode_image(images, task="retrieval", return_numpy=True) \
                 if isinstance(model, torch.nn.DataParallel) else model.encode_image(images, task="retrieval", return_numpy=True )
 
             # Convert to numpy
