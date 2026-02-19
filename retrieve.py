@@ -25,8 +25,9 @@ def retrieve(query_text, top_k=TOP_K):
 
     with torch.no_grad():
         q_emb = model.encode_text([query_text], task="retrieval")
-        q_emb = q_emb.cpu().numpy().astype("float32")
+        q_emb = np.array(q_emb).astype("float32")
 
+    faiss.normalize_L2(q_emb)
     # Important for IVF: set nprobe
     index.nprobe = 10
 

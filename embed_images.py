@@ -42,9 +42,14 @@ def main():
             images = [load_image(p) for p in batch_paths]
 
             emb = model.encode_image(images, task="retrieval")
-            embeddings.append(emb.cpu().numpy())
+            
+            emb = np.array(emb).astype("float32")
+
+            embeddings.append(emb)
 
     embeddings = np.vstack(embeddings).astype("float32")
+    
+    faiss.normalize_L2(embeddings)
 
     print("Building IndexIVFPQ...")
 
