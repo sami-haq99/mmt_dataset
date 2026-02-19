@@ -2,26 +2,34 @@ import os
 import numpy as np
 import torch
 from tqdm import tqdm
-from PIL import Image
+from PIL import Image, UnidentifiedImageError
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoModel
-from config import *
 import faiss
+from config import *
 
 # -------------------
 # Dataset for PyTorch
 # -------------------
 class ImageDataset(Dataset):
-    def __init__(self, image_paths):
+    def __init__(self, image_paths, log_file="corrupted_images.txt"):
         self.image_paths = image_paths
+        self.log_file = log_file
 
     def __len__(self):
         return len(self.image_paths)
 
     def __getitem__(self, idx):
         path = self.image_paths[idx]
-        img = Image.open(path).convert("RGB")
-        return img, idx  # return index for writing to memmap
+        try:
+            img = Image.open(path).convert("RGB")
+        except (UnidentifiedImageError, OSError) as e:
+            # Log corrupted image
+            with open(self.log_file, "a") as f:
+                f.write(f"{path}\n")
+            # Return a black placeholder image
+            img = Image.new("RGB", (224, 224), color=(0, 0, 0))
+        return img, idx
 
 # -------------------
 # Worker collate
@@ -65,7 +73,8 @@ def main():
         model = torch.nn.DataParallel(model)
     model.to(device)
 
-    # DataLoader
+    
+       # Setup DataLoader
     dataset = ImageDataset(image_paths)
     dataloader = DataLoader(
         dataset,
@@ -74,6 +83,8 @@ def main():
         num_workers=NUM_WORKERS,
         collate_fn=collate_fn
     )
+    
+    
 
     # Batch embedding
     with torch.no_grad():

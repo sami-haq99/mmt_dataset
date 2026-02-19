@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#SBATCH --gres=gpu:a100:3
+#SBATCH --gres=gpu:a100:2
 #SBATCH -p compute
 #SBATCH -J mm_ss
 #SBATCH -t 23:59:59

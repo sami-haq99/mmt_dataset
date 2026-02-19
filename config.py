@@ -7,7 +7,7 @@ EMBEDDING_FILE = "image_embeddings.memmap"
 
 EMBEDDING_DIM = 2048
 BATCH_SIZE = 64
-NUM_WORKERS = 16         # PyTorch DataLoader workers
+NUM_WORKERS = 4        # PyTorch DataLoader workers
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # IVF-PQ params for large scale
