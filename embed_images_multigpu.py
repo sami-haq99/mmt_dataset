@@ -81,13 +81,10 @@ def main():
                 if isinstance(model, torch.nn.DataParallel) else model.encode_image(images, task="retrieval", return_numpy=True )
 
             # Convert to numpy
-            if isinstance(emb, list):
-                emb = np.array(emb).astype("float32")
-            elif isinstance(emb, torch.Tensor):
-                emb = emb.detach().cpu().numpy().astype("float32")
-            else:
-                raise TypeError(f"Unexpected type for embeddings: {type(emb)}")
-
+           
+            if not isinstance(emb, np.ndarray):
+                # Manual fallback if return_numpy=True isn't supported in your version
+                emb = emb.detach().cpu().numpy()
             # Normalize
             faiss.normalize_L2(emb)
 

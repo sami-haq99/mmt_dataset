@@ -23,10 +23,10 @@ model.task = "retrieval"
 def retrieve(query_text, top_k=TOP_K):
     with torch.no_grad():
         q_emb = model.encode_text([query_text], task="retrieval", return_numpy=True)
-        if isinstance(q_emb, list):
-            q_emb = np.array(q_emb).astype("float32")
-        else:
-            q_emb = q_emb.detach().cpu().numpy().astype("float32")
+       
+        if not isinstance(q_emb, np.ndarray):
+            # Manual fallback if return_numpy=True isn't supported in your version
+            q_emb = q_emb.detach().cpu().numpy()
         faiss.normalize_L2(q_emb)
 
     distances, indices = index.search(q_emb, top_k)
