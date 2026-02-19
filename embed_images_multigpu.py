@@ -78,7 +78,7 @@ def main():
     with torch.no_grad():
         for images, indices in tqdm(dataloader, total=len(dataloader)):
             emb = model.module.encode_image(images, task="retrieval") \
-                if isinstance(model, torch.nn.DataParallel) else model.encode_image(images, task="retrieval")
+                if isinstance(model, torch.nn.DataParallel) else model.encode_image(images, task="retrieval", return_numpy=True )
 
             # Convert to numpy
             if isinstance(emb, list):
@@ -94,7 +94,7 @@ def main():
             # Write to memmap
             for idx, e in zip(indices, emb):
                 embeddings[idx] = e
-
+    embeddings.flush()  # Ensure all data is written to disk
     print("Embeddings saved to memmap:", EMBEDDING_FILE)
 
 if __name__ == "__main__":

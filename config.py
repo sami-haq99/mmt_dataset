@@ -1,7 +1,7 @@
 import os
 import torch
 
-IMAGE_FOLDER = "/path/to/1M_images"
+IMAGE_FOLDER = "./images"
 IMAGE_PATHS_FILE = "image_paths.npy"
 EMBEDDING_FILE = "image_embeddings.memmap"
 

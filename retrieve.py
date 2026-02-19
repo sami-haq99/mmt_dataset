@@ -22,7 +22,7 @@ model.task = "retrieval"
 
 def retrieve(query_text, top_k=TOP_K):
     with torch.no_grad():
-        q_emb = model.encode_text([query_text], task="retrieval")
+        q_emb = model.encode_text([query_text], task="retrieval", return_numpy=True)
         if isinstance(q_emb, list):
             q_emb = np.array(q_emb).astype("float32")
         else:
