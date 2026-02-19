@@ -48,6 +48,8 @@ def main():
                 emb = emb.detach().cpu().numpy()
             
             embeddings.append(emb)
+            print(f"Total batches: {len(embeddings)}")
+            print(f"Current batch shape: {emb.shape}")
 
     embeddings = np.vstack(embeddings).astype("float32")
     
@@ -56,6 +58,7 @@ def main():
     print("Building IndexIVFPQ...")
 
     # Step 1: Coarse quantizer
+    EMBEDDING_DIM = embeddings.shape[1]
     quantizer = faiss.IndexFlatL2(EMBEDDING_DIM)
 
     # Step 2: IVF-PQ index
