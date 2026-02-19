@@ -41,7 +41,7 @@ def main():
             batch_paths = image_paths[i:i+BATCH_SIZE]
             images = [load_image(p) for p in batch_paths]
 
-            emb = model.encode_image(images, task="retrieval.passage", return_numpy=True)
+            emb = model.encode_image(images, task="retrieval", return_numpy=True)
 
             if not isinstance(emb, np.ndarray):
                 # Manual fallback if return_numpy=True isn't supported in your version
