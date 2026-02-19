@@ -6,6 +6,7 @@ from PIL import Image
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoModel
 from config import *
+import faiss
 
 # -------------------
 # Dataset for PyTorch
