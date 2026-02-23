@@ -1,3 +1,4 @@
+import csv
 import json
 from retrieve import retrieve
 
@@ -13,9 +14,13 @@ def create_dataset(text_queries, output_file="retrieval_dataset.json"):
 
 if __name__ == "__main__":
     # Example text queries
-    queries = [
-        "a dog playing in the park",
-        "modern office building",
-        "mountain landscape with snow"
-    ]
-    create_dataset(queries)
+    #reading csv file ans extracting the 'src' column as text queries and save it in a list (csv headers: lp,src,mt,ref,score,system,annotators,domain,year)
+    
+    CSV_FILE = "en-de-ecommerce.csv"
+    queries = []
+    with open(CSV_FILE, "r", encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            queries.append(row["src"])
+
+    create_dataset(queries[:10])  # Create dataset for the first 100 queries

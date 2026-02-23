@@ -1,0 +1,1087 @@
+Record: en-cs_CZ_#_literary_#_rink_rats_chapter2_#_0 (en-cs)
+Source: Chapter 2: First Impressions
+The bus hissed as it came to a stop in front of St. Cassian’s entrance, its doors folding open with a mechanical sigh. 
+Declan Hull sat in the second-to-last row, elbows propped on his knees, thumbs drumming anxiously against each other. His headphones rested around his neck, the music paused a while ago, but he hadn’t noticed. He’d spent the last hour watching pine trees blur past the window, wondering if this place would be like the others.
+  [refA] Average Score: 82.5
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když zastavoval na zastávce před vchodem do St. Cassian’s a jeho dveře se zavřely s mechanickým zaúpěním.
+Declan Hull seděl v předposlední řadě s lokty zaraženými do kolen a nervózně klepal palci o sebe. Okolo krku mu spočívala sluchátka. Hudba přestala hrát už před nějakou dobou, ale on si toho ani nevšiml. Poslední hodinu strávil pozorováním toho, jak se za okny míhají borovice a přemýšlel, jestli tohle místo bude stejné jako ta ostatní.
+  [Yolu] Average Score: 83.0
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když se zastavil před vchodem do kostela sv. Kasiána a jeho dveře se s mechanickým zvukem otevřely.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce úzkostlivě klepaly o sebe. Sluchátka mu visela kolem krku, hudba se před chvílí zastavila, ale on si toho nevšiml. Poslední hodinu trávil sledováním borových stromů mizejících za oknem, a přemýšlel, jestli tohle místo bude podobné těm ostatním.
+  [SalamandraTA] Average Score: 83.0
+  Output: Kapitola 2: První dojmy.
+Autobus zasyčel, když zastavil před vchodem do kostela sv. Kasia, a jeho dveře se mechanicky otevřely.
+Declan Hull seděl v předposlední řadě, opíral se lokty o kolena a nervózně si bubnoval palci o sebe. Sluchátka mu visela kolem krku, hudba před chvílí přestala hrát, ale on si toho nevšiml. Poslední hodinu strávil tím, že se díval, jak se za oknem míhají borovice, a přemýšlel, jestli bude tohle místo jako ostatní.
+  [CommandA-MT] Average Score: 94.5
+  Output: **Kapitola 2: První dojmy**
+Autobus zavrčel, když zastavil před vchodem do sv. Kasiána, a jeho dveře se otevřely s mechanickým vzdechem.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, a neklidně bubnoval prsty o sebe. Sluchátka měl pověšená kolem krku, hudba už dávno nehrála, ale nevšiml si toho. Poslední hodinu pozoroval, jak se za oknem míhají borovice, a přemýšlel, jestli bude toto místo jako ta ostatní.
+  [CUNI-SFT] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus zafuněl, když zastavil před vchodem do St. Cassian, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl na předposledním místě, lokty opřené o kolena, palce si nervózně bubnovaly dohromady. Na krku měl nasazené sluchátka, hudba se před chvílí zastavila, ale on si toho nevšiml. Poslední hodinu sledoval, jak se mu před oknem míhají borovicové lesy, přemýšlel, jestli tohle místo bude jako ta ostatní.
+  [CUNI-DocTransformer] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když zastavil před vchodem do St. Cassian, dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce úzkostlivě bubnovaly o sebe. Sluchátka měl položená kolem krku, hudba před chvílí utichla, ale nevšiml si. Poslední hodinu strávil pozorováním borovic, které se míhaly kolem okna, a přemýšlel, jestli tohle místo bude jako ostatní.
+  [CUNI-MH-v2] Average Score: 86.5
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když zastavil před vchodem do kostela sv. Cassiana, a jeho dveře se s mechanickým povzdechem rozevřely.
+Declan Hull seděl v předposledním řadě, opíral se lokty o kolena a palce si nervózně bubnovaly dohromady. Jeho sluchátka visela kolem krku, hudba už před chvílí přestala hrát, ale on si toho nevšiml. Poslední hodinu pozoroval, jak borovicové stromy mizí za oknem, a přemýšlel, jestli tohle místo bude stejné jako ta ostatní.
+  [Algharb] Average Score: 55.0
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když zastavil před vchodem do St. Cassian’s, jeho dveře se otevřely s mechanickým povzdechem.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce nervózně spolu ťukali. Sluchátka mu spočívala kolem krku, hudba byla už dávno pozastavena, ale on si toho nevšiml. Poslední hodinu strávil pozorováním borovic rozmazaně procházejících oknem a přemýšlením, jestli tohle místo bude jako ostatní.
+  [GemTrans] Average Score: 79.5
+  Output: Kapitola 2: První dojmy
+Autobus s hlasitým syčením zastavil před vchodem do školy sv. Kasiána a jeho dveře se s mechanickým zavrzáním otevřely.
+Declan Hull seděl v předposlední řadě, opíral lokty o kolena a nervózně si bubnoval palci. Sluchátka měl přehozená přes krk, hudba už dávno přestala hrát, ale on si toho nevšiml. Poslední hodinu sledoval, jak se za oknem rozmazávají borovice, a přemýšlel, zda bude toto místo podobné těm předchozím.
+  [IRB-MT] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus zavyl, když zastavil před kostelem svatého Kasiána, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposledním řadě, lokty opřené o kolena a nervózně bubnoval palci. Sluchátka mu visela kolem krku, hudba byla zastavená už nějakou dobu, ale on si toho nevšiml. Poslední hodinu sledoval, jak se za oknem rozmazávají smrky, a přemýšlel, jestli bude tohle místo jako ta ostatní.
+  [Laniqo] Average Score: 61.0
+  Output: Druhá kapitola: První dojmy
+Když autobus zastavil před vchodem do kostela sv. Kassiána, ozvalo se z něj syčení a dveře se s lehkým mechanickým hlukem otevřely.
+Declan Hull seděl na předposledním místě v řadě, lokty opíral o kolena a palce si nervózně tiskl k sobě. Na krku měl nasazené sluchátka; hudba se sice před chvílí přerušila, ale on si toho nevšiml. Poslední hodinu pozoroval jehličnaté stromy, jež se mu točily před očima za oknem, a uvažoval, zda není místo takové jako ostatní.
+  [IR-MultiagentMT] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když zastavil před vchodem do svatého Kassiana, jeho dveře se s mechanickým povzdechem otevřely. 
+Declan Hull seděl ve předposlední řadě, lokty opřenými o kolena, palce nervózně bubnujícími jeden o druhý. Sluchátka měl pověšená kolem krku, hudba se zastavila už před chvílí, ale on si toho nevšiml. Poslední hodinu strávil pozorováním borovic, které se míhaly za oknem, a přemýšlel, jestli bude tohle místo jako ta ostatní.
+  [Wenyiil] Average Score: 81.5
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když se zastavil před vchodem do Svatého Cassiana, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce úzkostně bouchající jeden o druhý. Sluchátka mu ležela kolem krku, hudba byla už dávno pozastavená, ale on si toho nevšímal. Poslední hodinu strávil sledováním borovic, jak se rozmítají za oknem, a přemýšlením, jestli bude tohle místo jako ta ostatní.
+  [ctpc_nlp] Not annotated
+  Output: " Kapitola 2: První dojmy
+ Bus šuměl, když se zastavil před kostelem svatého Martina  Cassianův vstup, jeho dveře se otevírající se mechanickým dýcháním.
+ Declan Hull seděl ve druhé řadě předposlední, lokty opřené na kolena, palce nervozně boubaly proti sobě.  Sluchátka ležela mu na krku, hudba pausovala už delší dobu, ale nic si nevšiml.  Poslední hodinu procházel pozorováním, jak se borůvky zbloudily před oknem, a snažil se pochopit, jestli je to stejně jako u ostatních.
+  [Shy] Average Score: 92.0
+  Output: **Kapitola 2: První dojmy**  
+Autobus zasyčel, když zastavil před vchodem do školy svatého Kasiána, a jeho dveře se s mechanickým povzdechem otevřely.  
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena; jeho palce nervózně bubnovaly jeden o druhý. Sluchátka měl kolem krku – hudbu už před chvílí pozastavil, ale si toho nevšiml. Poslední hodinu jenom sledoval, jak za oknem míhají borovice, a přemýšlel, jestli tohle místo bude stejné jako ostatní.
+  [SRPOL] Average Score: 65.5
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když zastavil před vchodem do kostela sv. Cassiana, a jeho dveře se s mechanickým povzdechem rozevřely. 
+Declan Hull seděl na předposlední řadě, opíral se lokty o kolena a palce si nervózně přitloukal k sobě. Na krku měl nasazené sluchátka, hudba už před chvílí přestala hrát, ale on si toho nevšiml. Poslední hodinu pozoroval, jak mu borovice mizí za oknem, a přemýšlel, zda tohle místo bude stejné jako ta ostatní.
+  [TranssionMT] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus se zastavil, když přišel na zastávku před St. Cassianův vchod, jeho dveře se skládají otevřené mechanickým zápachem.
+Declan Hull seděl ve druhém až posledním řadě, elbové se poháněli na kolena, palce bubnuly úzkostlivě proti sobě.Jeho sluchátka odpočívala kolem krku, hudba se před chvílí zastavila, ale nevšiml si.Strávil poslední hodinu sledováním borových stromů rozmazaných oknem a přemýšlel, zda by toto místo bylo stejné jako ostatní.
+  [TranssionTranslate] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když zastavil před vchodem do kostela svatého Kasiana, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposlední řadě s lokty opřenými o kolena a palcemi úzkostlivě bubnujícími o sebe. Sluchátka měl na krku, hudba se před chvílí zastavila, ale on si toho nevšiml. Poslední hodinu sledoval borovice, které se rozplývaly za oknem, a přemýšlel, jestli tohle místo bude jako ostatní.
+  [UvA-MT] Average Score: 70.0
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když zastavil před vchodem do St. Cassian’s, jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposledním řádku, lokty opřené o kolena, palce nervózně bubnovaly na sebe. Sluchátka měla kolem krku, hudba byla zastavená už nějakou dobu, ale on si toho nevšiml. Poslední hodinu trávil tím, že sledoval, jak borové stromy mizí za oknem, a přemýšlel, jestli bude toto místo podobné těm předchozím.
+  [AyaExpanse-32B] Not annotated
+  Output: # Kapitola 2: První dojmy
+Autobus sykl, když zastavil před vchodem do školy sv. Kassiana, jeho dveře se s mechanickým vzdycháním rozevřely.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce nervózně bubnovaly jeden na druhý. Sluchátka měl zavěšená kolem krku, hudba se zastavila už před chvíli, ale on si toho nevšiml. Poslední hodinu sledoval, jak borovice za oknem ubíhají, a přemýšlel, jestli tohle místo bude jako ta předchozí.
+  [AyaExpanse-8B] Not annotated
+  Output: Kapitola 2: První dojem
+Autobus syčel, když zastavil před vchodem do svatyně svatého Kasiána, jeho dveře se s mechanickým sténáním otevřely. 
+Declan Hull seděl v předposledním řádku, lokty opřené o kolena, prsty nervózně klepající o sebe. Jeho sluchátka visela kolem jeho krku, hudba byla pozastavena už před hodinou, ale on si toho nevšiml. Poslednou hodinu strávil sledováním, jak se borovice rozmazávají za oknem, a přemýšlel, zda bude toto místo podobné ostatním.
+  [Claude-4] Average Score: 89.5
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když se zastavil před vchodem do St. Cassian's, a jeho dveře se otevřely s mechanickým vzdechem.
+Declan Hull seděl v předposledním řadu, lokty opřené o kolena, palce úzkostlivě bubnující jeden o druhý. Sluchátka měl kolem krku, hudbu už dávno zastavil, ale nevšiml si toho. Poslední hodinu pozoroval borovice míjející za oknem a přemýšlel, jestli bude tohle místo jako ta ostatní.
+  [CommandA] Average Score: 97.0
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když zastavil před vchodem do svatého Kasiana, jeho dveře se s mechanickým vzdechem otevřely.  
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce nervózně bubnovaly jeden o druhý. Sluchátka měl pověšená kolem krku, hudba se zastavila už před chvílí, ale nevšiml si toho. Poslední hodinu pozoroval, jak se za oknem míhají rozmazané borovice, a přemýšlel, jestli tohle místo bude jako ta ostatní.
+  [DeepSeek-V3] Average Score: 82.0
+  Output: Kapitola 2: První dojmy
+Autobus zaprskal, když zastavil před vchodem do svatokassiánské školy, a jeho dveře se s mechanickým povzdechem otevřely. 
+Declan Hull seděl v předposlední řadě, s lokty opřenými o kolena a palci, které se nervózně přebíjely. Sluchátka měl pověšená kolem krku, hudbu před chvílí zastavil, ale ani si toho nevšiml. Poslední hodinu strávil tím, že sledoval, jak za oknem míhají borovice, a přemýšlel, jestli tohle místo bude jako ta ostatní.
+  [Gemini-2.5-Pro] Average Score: 94.5
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když zastavil před vchodem do Svatého Kasiána, a jeho dveře se s mechanickým povzdechem složily.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, a nervózně si bubnoval palci o sebe. Sluchátka mu visela na krku, hudba už před chvílí ztichla, ale on si toho nevšiml. Poslední hodinu sledoval, jak se za oknem míhají borovice, a přemýšlel, jestli to tady bude stejné jako na ostatních místech.
+  [Gemma-3-12B] Not annotated
+  Output: Autobus zavyl, když zastavil před vchodem do svatyně svatého Kasiána, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposledním řadě, lokty opřené o kolena, a palci nervózně bubnovaly jeden na druhý. Sluchátka mu visela kolem krku, hudba byla zastavená už nějakou dobu, ale on si toho nevšiml. Poslední hodinu trávil tím, že sledoval, jak se za oknem rozmazávají smrky, a přemýšlel, jestli bude toto místo podobné těm předchozím.
+  [Gemma-3-27B] Average Score: 63.0
+  Output: Kapitola 2: První dojmy
+Autobus sykl, když zastavil před vchodem sv. Kasiána, a jeho dveře se s mechanickým povzdechem rozkládaly. 
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena a palci nervózně bubnovali proti sobě. Sluchátka měl viset kolem krku, hudba už dávno utichla, ale nevšiml si toho. Poslední hodinu sledoval, jak se borovice rozmazávají za oknem, a přemýšlel, jestli bude tohle místo jako ty ostatní.
+  [Llama-4-Maverick] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus syčel, jak zastavil před vchodem do svatého Cassiana, jeho dveře se s mechanickým povzdechem rozevřely.
+Declan Hull seděl ve druhé poslední řadě, lokty opřené o kolena, palce si úzkostlivě bubnovaly proti sobě. Náhlavní reproduktory měl kolem krku, hudba byla už chvíli pozastavená, ale on si toho nevšiml. Poslední hodinu sledoval, jak se borovice rozmazávají za oknem, a přemýšlel, jestli bude toto místo podobné ostatním.
+  [ONLINE-B] Not annotated
+  Output: Kapitola 2: První dojmy Autobus zasyčel, když zastavil před vchodem do kostela sv. Kasiana, a jeho dveře se s mechanickým povzdechem otevřely. Declan Hull seděl v předposlední řadě s lokty opřenými o kolena a palcemi úzkostlivě bubnovaly o sebe. Sluchátka měl na krku, hudba se před chvílí přerušila, ale on si toho nevšiml. Poslední hodinu sledoval borovice, které se rozmazávaly za oknem, a přemýšlel, jestli tohle místo bude jako ostatní.
+  [ONLINE-G] Not annotated
+  Output: Kapitola 2: První Dojmy
+Autobus zasyčel, když se zastavil před vchodem svatého Cassiana,jeho dveře se mechanickým povzdechem sklopily. 
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce o sebe úzkostlivě bubnovaly. Sluchátka mu spočívala kolem krku, hudba se před chvílí zastavila, ale nevšiml si. Strávil poslední hodinu sledováním, jak se borovice rozostřují za oknem, a přemýšlel, jestli by toto místo bylo jako ostatní.
+  [ONLINE-W] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když zastavil před vchodem do kostela svatého Kassiána, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposlední řadě, lokty měl opřené o kolena a palci o sebe neklidně bubnoval. Sluchátka mu spočívala na krku, hudba se před chvílí zastavila, ale on si toho nevšiml. Poslední hodinu strávil pozorováním borovic, které se míhaly kolem okna, a přemýšlel, jestli to tady bude stejné jako jinde.
+  [Qwen3-235B] Not annotated
+  Output: Kapitola 2: První dojmy  
+Autobus sykl, když zastavil před vjezdem ke sv. Kasiánovi, dveře se s mechanickým povzdechem rozlítly.  
+Declan Hull seděl na předposledním řadě, lokty opřené o kolena, palce nervózně bubnovaly jeden o druhý. Sluchátka měl pověšená kolem krku, hudba byla pozastavena už před chvílí, ale on si toho nevšiml. Poslední hodinu sledoval, jak se za oknem míhají borovice, a přemýšlel, jestli bude toto místo stejné jako ostatní.
+  [CommandR7B] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus zašuměl, když zastavil před vchodem do kostela svatého Kassiana, a jeho dveře se s mechanickým zasyčením rozevřely.
+Declan Hull seděl v druhé poslední řadě, s lokty opřenými o kolena a prsty nervózně bouchajícími do sebe. His headphones rested around his neck, the music paused a while ago, but he hadn’t noticed. He’d spent the last hour watching pine trees blur past the window, wondering if this place would be like the others.
+On si seděl v druhé poslední řadě, s lokty opřenými o kolena a prsty nervózně bouchajícími do sebe. Sluchátka mu visela kolem krku, hudba byla pozastavena už před dlouho, ale on si toho nevšiml. Posledních hodinu sledoval, jak smrky blikaly za oknem, a ptal se sám sebe, zda tohle místo bude jako ty ostatní.
+  [GPT-4.1] Average Score: 80.0
+  Output: Kapitola 2: První dojmy  
+Autobus zasyčel, když zastavil před vchodem do St. Cassian’s, a dveře se s mechanickým povzdechem rozevřely.  
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce nervózně bubnovaly jeden o druhý. Sluchátka měl kolem krku, hudba už dávno pozastavená, ale on si toho ani nevšiml. Poslední hodinu sledoval, jak za oknem míhají borovice, a přemýšlel, jestli tohle místo bude stejné jako ta předchozí.
+  [Llama-3.1-8B] Not annotated
+  Output: Druhá kapitola: První dojmy
+Autobus zasyčel, když zastavil před vstupem kostela sv. Kajina, jeho dveře se otevřely s mechanickým vydechnutím. 
+Declan Hull seděl ve druhé od poslední řadě, paže opřené o kolena, prsty tloukly nervózně jeden proti druhému. Sluchátka ležela kolem jeho krku, hudba byla zastavena už dávno, ale na to si nevšímal. Celou hodinu pozoroval, jak se smrčky borovice mihly před oknem, a přemýšlel, zda tohle místo bude jako ostatní.
+  [Mistral-7B] Not annotated
+  Output: Kapitola 2: První dojem
+Autobus šeptal, když se zastavil před vchodem k kostelu sv. Kasiána, jeho dveře se otvířely mechanickým zoufalým dýcháním.
+Declan Hull seděl v druhé předposlední řadě, jeho lokty ležely na kolenech, prsty tleskaly nervózně navzájem. Jeho sluchátka visela kolem krku, hudba už dávno neběžela, ale on to nezaznamenal. Zatím poslední hodinu strávil sledováním, jak se borovice rozmyjí před oknem, zda bude toto místo jako ostatní.
+  [Qwen2.5-7B] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus zasykl, když zastavil před vchodem do kostela sv. Kassiana, a jeho dveře se otevřely mechanickým povzdechem.
+Declan Hull seděl v druhé poslední řadě, lokty položené na kolene, a prsty si nervózně hral s rukama. Kulatky s uchohřívačkami měl kolem krku, ale hudba už dávno zastavila, ale on to nevnímal. Poslední hodinu se díval, jak se stromy pinaře mihou přes okno, a přemýšlel, bude toto místo podobné ostatním.
+  [Mistral-Medium] Average Score: 70.0
+  Output: Kapitola 2: První dojmy
+Autobus zasyčel, když zastavil před vchodem do Svatého Kasiana, jeho dveře se mechanicky rozevřely s povzdechem.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce neklidně bubnovaly jeden o druhý. Sluchátka mu visela kolem krku, hudba byla už dávno pozastavena, ale on si toho nevšiml. Poslední hodinu strávil pozorováním borovic, které se za oknem rozmazávaly, a přemýšlel, jestli bude toto místo jako ta ostatní.
+  [TowerPlus-9B] Average Score: 62.5
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když zastavil před vchodem do kostela sv. Kassiana, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce nervózně bubnovaly jedna o druhou. Sluchátka mu ležela kolem krku, hudba se zastavila před chvílí, ale on si toho nevšiml. Poslední hodinu se díval, jak mu borové stromy mizí za oknem, a přemýšlel, jestli bude toto místo jako ostatní.
+  [TowerPlus-72B] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus sykl, když zastavil před vchodem do svatého Kasiána, a jeho dveře se mechanicky otevřely.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palci nervózně bubnovaly jeden o druhého. Sluchátka měl přehozená přes krk, hudba se zastavila už před chvílí, ale on si toho nevšiml. Poslední hodinu strávil pozorováním borovic, které se míhaly kolem okna, a přemýšlel, jestli tohle místo bude jako ta ostatní.
+  [EuroLLM-9B] Not annotated
+  Output: Kapitola 2: První dojmy
+Autobus syčel, když zastavil před vchodem do kostela sv. Cassiana, jeho dveře se s mechanickým povzdechem sklápěly.
+Declan Hull seděl v předposledním řadě, lokty opřené o kolena, palce si nervózně bubnovaly dohromady. Jeho sluchátka visela kolem krku, hudba se před chvílí zastavila, ale on si toho nevšiml. Poslední hodinu sledoval, jak borovice mizí za oknem, a přemýšlel, zda tohle místo bude jako ta ostatní.
+  [EuroLLM-22B] Not annotated
+  Output: Kapitola 2: První dojem
+Autobus syčel, když zastavil před vchodem do St. Cassiana, a jeho dveře se s mechanickým povzdechem otevřely.
+Declan Hull seděl v předposledním řadě, lokty opřené o kolena, palce nervózně bubnovaly o sebe. Sluchátka měl omotaná kolem krku, hudba se zastavila už před chvílí, ale on si toho nevšiml. Poslední hodinu sledoval, jak se mu za oknem míhají borovicové lesy, a přemýšlel, jestli bude toto místo jako všechna ostatní.
+  [NLLB] Not annotated
+  Output: Kapitola 2: První dojmy
+Když autobus zastavil před vchodem do kostela sv. Cassiana, zašeptal a jeho dveře se otevřely mechanickým vzdychem.
+Declan Hull seděl v předposlední řadě, lokty opřené o kolena, palce úzkostlivě bubnily jeden proti druhému. Jeho sluchátka mu ležela kolem krku, hudba se před chvílí zastavila, ale on si toho nevšiml. Poslední hodinu strávil sledováním borovic, jak se rozmazávají kolem okna, a přemýšlel, jestli tohle místo nebude jako ty ostatní.
+
+Record: en-cs_CZ_#_literary_#_rink_rats_chapter2_#_1 (en-cs)
+Source: Temporary.
+With a slow exhale, Declan rose to his feet, slinging the duffel bag over his shoulder. The blue canvas was stiff and new, the St. Cassian’s crest embroidered in gold on the side. It had been overnighted to him in anticipation for his arrival, along with his class uniform and team-issued hockey sweats. He’d conveniently ignored the uniform, pulling on the sweats instead. After seven hours crammed on a bus from Syracuse, he dared someone to say a word about him showing up late and out of dress code. 
+The driver gave him a brief nod as he stepped off the bus.
+  [refA] Average Score: 75.5
+  Output: Dočasné.
+S pomalým výdechem se Declan postavil na nohy a přehodil si sportovní tašku přes rameno. Její modrá látka byla ještě nová a ztuhlá, na jejím boku vyčníval zlatý erb St. Cassian’s. Poslali mu ji přes noc, aby ji dostal hned po příjezdu spolu se školní uniformou a týmovým oblečením. Pro větší pohodlí ale uniformu ignoroval a místo ní si vzal tepláky. Po sedmi hodinách cesty v autobuse ze Syracause by si mohl někdo jen zkusit mu říct něco o pozdním příchodu a dress codu.
+Když vystupoval z autobusu, řidič na něj krátce kývl.
+  [Yolu] Average Score: 52.0
+  Output: Dočasné.
+S pomalým výdechem se Declan zvedl na nohy a přehodil sportovní tašku přes rameno. Modrá plátěná taška byla tuhá a nová, s vyšívaným zlatým znakem střediska St. Cassian na straně. Doručili mu ji nákladním dopravním letadlem přes noc v očekávání jeho příjezdu, spolu s uniformou pro vyučování a týmovou hokejovou teplákovou soupravou. Uniformu ignoroval a vzal si raději teplák. Po sedmi hodinách stísněně strávených v autobuse ze Syracuse si troufl říct, že by ho nikdo neměl kárat za zpoždění nebo nevhodné oblečení.
+Řidič mu krátce kývnul, když vystupoval z autobusu.
+  [SalamandraTA] Average Score: 67.5
+  Output: Dočasný.
+Declan pomalu vydechl, vstal a přehodil si přes rameno tašku. Modrá plátěná taška byla tvrdá a nová, po straně měla zlatě vyšívaný znak St. Cassian. Přivezli mu ji v předstihu před jeho příjezdem spolu s uniformou jeho třídy a týmovými hokejovými tepláky. Uniformu pohodlně ignoroval a místo ní si oblékl tepláky. Po sedmi hodinách nacpaných v autobuse z Syracuse se odvážil někdo říct něco o tom, že dorazil pozdě a v rozporu s pravidly oblékání.
+Když vystoupil z autobusu, řidič na něj krátce kývl.
+  [CommandA-MT] Average Score: 75.0
+  Output: Dočasné.
+Declan pomalu vydechl, zvedl se na nohy a přehodil si tašku přes rameno. Modré plátno bylo tuhé a nové, na boku zářila zlatá vyšívaná značka sv. Kasiána. Přivezli mu ji přes noc v očekávání jeho příjezdu, spolu s jeho školní uniformou a hokejovými tepláky od týmu. Uniformu pohodlně ignoroval a místo toho si oblékl tepláky. Po sedmi hodinách strávených v autobuse ze Syracuse si nedovolil nikdo říct ani slovo o tom, že přišel pozdě a porušil dress code.
+Řidič mu krátce kývl, když vystupoval z autobusu.
+  [CUNI-SFT] Not annotated
+  Output: Přechodné.
+Při pomalém výdechu se Declan postavil na nohy a pověsil si tašku přes rameno. Modrá látka byla nová a tuhá, na boku byl vyšit zlatý znak St. Cassian’s. Taška byla přinesena v noci, aby byla připravená na jeho příjezd, spolu s jeho školním stejnokrojem a hokejovými tepláky. Declan stejnokroj pohodlně ignoroval a místo něj si oblékl tepláky. Po sedmi hodinách strávených v autobuse ze Syrakus si dovolil, aby někdo řekl, že přišel pozdě a že neuposlechl dress code.
+Řidič mu na znamení pozdravu krátce zamával, když vystupoval z autobusu.
+  [CUNI-DocTransformer] Not annotated
+  Output: Dočasné.
+Declan pomalu vydechl, vstal a přehodil si sportovní tašku přes rameno. Modré plátno bylo tuhé a nové, na boku zlatem vyšitý erb svatého Kasiána. Přenocoval ho v očekávání jeho příjezdu, spolu s jeho školní uniformou a hokejovými tepláky. Uniformu si příhodně nevšímal a místo toho si natáhl tepláky. Po sedmi hodinách nacpaných v autobuse ze Syracuse se odvážil říct někomu slovo o tom, že přišel pozdě a mimo pravidla oblékání.
+Řidič na něj krátce kývl, když vystupoval z autobusu.
+  [CUNI-MH-v2] Average Score: 71.5
+  Output: Dočasně.
+S pomalým výdechem se Declan postavil na nohy a přehodil si duffel bag přes rameno. Modrá plachta byla tuhá a nová, na straně vyšívaný zlatý znak St. Cassian’s. Byla mu přivezena přes noc v očekávání jeho příjezdu, spolu s jeho školní uniformou a týmovými hokejovými mikinami. Neochotně ignoroval uniformu a místo ní si oblékl mikiny. Po sedmi hodinách strávených v autobuse z Syrakus si troufal říct, že nikdo nemůže říct ani slovo o tom, že přišel pozdě a v nesprávném oblečení.
+Řidič mu dal krátký pokyn, když vystupoval z autobusu.
+  [Algharb] Average Score: 40.0
+  Output: Dočasné.
+Při pomalém výdechu se Declan zvedl na nohy a přehodil si sportovní tašti přes rameno. Modré plátno bylo tuhé a nové, sevřeným zlatým erbem St. Cassianu po boku. Přivezli mu ji expresně před jeho příjezdem, spolu s uniformou a týmovým hokejovým tréninkovým kouskem. Pohodlně ignoroval uniformu a místo ní si oblékl tréninkový kousek. Po sedmi hodinách sevřených v autobuse ze Syracuse si troufal, aby o něm někdo řekl slovo, že se objevil pozdě a mimo předepsané oblečení.
+Řidič mu krátce přikývl, když vystoupal z autobusu.
+  [GemTrans] Average Score: 47.0
+  Output: Dočasně.
+S pomalým výdechem se Declan postavil a přehodil si přes rameno cestovní tašku. Modré plátno bylo nové a pevné, na boku bylo vyšívané zlaté logo školy „St. Cassian’s“. Taška mu byla doručena předem, aby byla připravena k jeho příjezdu, spolu s jeho školní uniformou a sportovním oblečením pro hokejový tým. Uniformu si ale pohodlně nechal a raději si oblékl sportovní oblečení. Po sedmi hodinách strávených v autobuse ze Syracuse si nedovolil, aby mu někdo něco vytknul za to, že dorazil pozdě a nebyl oblečený podle předpisů.
+Řidič mu při vystupování z autobusu věnoval krátký úsměv.
+  [IRB-MT] Not annotated
+  Output: Dočasný.
+S pomalým výdechem se Declan postavil na nohy a hodil si přes rameno příruční tašku. Modrá plátna byla tuhá a nová, s vyšívaným erbem sv. Kasiána ve zlaté barvě na boku. Byla mu doručena přes noc v očekávání jeho příjezdu, spolu s jeho školní uniformou a hokejovou soupravou. Uniformu záměrně ignoroval a místo toho si oblékl soupravu. Po sedmi hodinách namačkaný v autobusu ze Syrakus by se s někým rád pohádal, kdyby mu řekl slovo o tom, že přišel pozdě a neupravený.
+Šofér mu věnoval krátký kývnutí, když vystoupil z autobusu.
+  [Laniqo] Average Score: 59.5
+  Output: Na dobu určitou.
+Po pomalém výdechu Declan vstal a pověsil si velkou sportovní tašku na rameno. Modrý textil byl pevný a nový, na jedné straně měl vyšitou zlatou výšivkou nápis St. Cassian‘s. V očekávání jeho příjezdu mu ji přivezli přes noc, společně s jeho školní uniformou a fialovými trenýrkami na hokej, které mu přidělila škola. Neuposlechl pokyn nosit školní uniformu a raději si oblékl trenýrky. Po sedmi hodinách strávených na přeplněném autobuse ze Syracuse si dovolil tvrdit, že je včas na místě a že má na sobě správné oblečení.
+Když vystupoval z autobusu, řidič mu krátce kývl.
+  [IR-MultiagentMT] Not annotated
+  Output: Dočasné. 
+S pomalým výdechem Declan vstal, hodil si sp přes rameno. Modrý plátěný vak byl tuhý a nový, na boku měl vyšitý erb svatého Kassiána ve zlaté barvě. Byl mu zaslán na poslední chvíli na jeho příjezd, spolu s uniformou a hokejovými tepláky, které dostal od týmu. Uniformě se vyhnul a místo toho si oblékli sweats. Po sedmi hodinách natlačených v autobuse z Syracuse se odvážil, aby někdo řekl slovo o tom, že se objevil pozdě a mimo dress code. Řidič mu krátce pokynul, když vystoupil z autobusu.
+Podzimní vzduch byl chladnější, než očekával, svěží a ostrý, když zasáhl jeho plíce. Vyšší si zip u větrovky a upravil si úchop na tašce. Jeho oči skenovaly široký areál, sledovaly kamenné budovy a upravené trávníky s nečinným nezájmem, až se zastavily na hřišti v dálce. 
+  [Wenyiil] Average Score: 49.5
+  Output: Dočasný.
+Při pomalém výdechu se Declan postavil na nohy a přehodil si sportovní tašku přes rameno. Modré plátno bylo tuhé a nové, na boku vyšitý erb svatého Cassiana. Byla mu poslána expresně v očekávání jeho příjezdu, spolu s třídní uniformou a hokejovými tepláky určenými pro tým. Pohodlně ignoroval uniformu a místo ní si oblékl ty tepláky. Po sedmi hodinách nacpaných v autobuse ze Syracuse se nebojil, aby někdo řekl jediné slovo o tom, že se objevil pozdě a mimo školní řád.
+Řidič mu krátce přikývl, když vystupoval z autobusu.
+  [ctpc_nlp] Not annotated
+  Output:  Dočasný.
+ S pomalým dechem vstal Declan na nohy a vrátil si duffelk přes rameno.  Martin byl z modrého plátna, bylo to nové a pevné  Cassianův erb vyšíván zlatem na straně.  Byl mu převezen přes noc, spolu s školním oblečením a hokejovými šortky, které mu přidělila tým.  Ignoroval by uniformu a oblékal by se do triček.  Po sedmi hodinách, strávených v autě od Syracuse, se někdo ptá, jestli by se někdo neodvážil zmínit, že se zpozdil a nesplňuje dress code.
+ Řidič mu dal krátký pokyn, když vystoupil z autobusu.
+  [Shy] Average Score: 95.0
+  Output: S pomalým výdechem se Declan postavil na nohy a přehodil si sportovní tašku přes rameno. Modré plátno bylo tuhé a nové; na boku byl vyšit zlatý erb St. Cassian. Tašku mu expresně doručili v očekávání jeho příjezdu, spolu se školní uniformou a týmovým hokejovým oblečením. Uniformu záměrně ignoroval a místo ní si oblékl tepláky. Po sedmi hodinách strávených v autobuse ze Syracuse si vůbec nedělal starosti s tím, jestli přijel pozdě nebo v nevhodném oblečení. Řidič mu krátce přikývl, když vystupoval z autobusu.
+  [SRPOL] Average Score: 52.5
+  Output: Dočasné.
+Pomalým výdechem se Declan postavil na nohy a přehodil si tašku přes rameno. Modrá plachta byla tuhá a nová, na boku byl vyšit zlatem znak St. Cassianu. Byla mu doručena v očekávání jeho příjezdu spolu s jeho školní uniformou a týmovým hokejovým dresem. Nechal si pohodlně ujít uniformu a místo toho si vzal dres. Po sedmi hodinách strávených v autobuse ze Syrakus si dovolil, aby mu někdo řekl, že přišel pozdě a v neslušném oblečení. 
+Řidič mu při vystupování z autobusu krátce zamával.
+  [TranssionMT] Not annotated
+  Output: Dočasné.
+Díky pomalému vydechování se Declan zvedl na nohy, přičemž mu přes rameno sklonil dvoulůžkový pytel.Modrá plátna byla tuhá a nová, sv. Cassianův kříž byl zakořeněn do zlata na straně.Bylo mu přes noc předpokládáno jeho příchod, spolu s jeho třídní uniformou a týmovými hokejovými svety.Pohodlně ignoroval uniformu a namísto toho tlačil na svetry.Po sedmi hodinách, které se rozběhlo autobusem z Syracuse, se odvážil někomu říct o něm slovo, které se objevuje pozdě a mimo kód šatů.
+Řidič mu krátce přikývl, když vystoupil z autobusu.
+  [TranssionTranslate] Not annotated
+  Output: Dočasný.
+Declan s pomalým výdechem vstal a přehodil si cestovní tašku přes rameno.Modré plátno bylo pevné a nové, na boku byl zlatě vyšívaný erb svatého Kasiana.Byla mu doručena přes noc v očekávání jeho příjezdu, spolu s jeho třídní uniformou a hokejovými tepláky, které dostal od týmu.Pohodlně ignoroval uniformu a místo toho si oblékl tepláky.Po sedmi hodinách namačkaných v autobuse ze Syrakus se odvážil někoho prohodit slovo o tom, že se dostavil pozdě a nedodržel předepsaný oděv.
+Řidič na něj krátce kývl, když vystupoval z autobusu.
+  [UvA-MT] Average Score: 60.0
+  Output: Dočasný.
+S pomalým výdechem se Declan postavil na nohy a přehodil si přes rameno sportovní tašku. Modrá plátěná taška byla tuhá a nová, s vyšívaným erbem St. Cassian’s v zlaté barvě na boku. Byla mu doručena přes noc v očekávání jeho příjezdu, spolu s jeho školní uniformou a hokejovými teplákovými soupravami od týmu. Uniformu pohodlně ignoroval a místo toho si oblékl tepláky. Po sedmi hodinách strávených v přeplněném autobusu z Syracuse si dovolil, aby mu někdo řekl slovo o tom, že přišel pozdě a mimo dress code.
+Řidič mu krátce kývl hlavou, když vystoupil z autobusu.
+  [AyaExpanse-32B] Not annotated
+  Output: Dočasné.
+S pomalým výdechem se Declan zvedl na nohy a přehodil si přes rameno sportovní tašku. Modrá plátěná taška byla tuhá a nová, s vyšívaným zlatým erbem školy St. Cassian na straně. Byla mu přes noc zaslána v očekávání jeho příjezdu, spolu s uniformou pro jeho třídu a týmovými hokejovými tepláky. Pohodlně ignoroval uniformu a místo toho si oblékl tepláky. Po sedmi hodinách strávených nacpaných v autobuse ze Syracuse si troufal někoho požádat, aby řekl něco o jeho pozdním příchodu a nedodržení dress codeu.
+Řidič mu krátce pokývl, když vystupoval z autobusu.
+  [AyaExpanse-8B] Not annotated
+  Output: Dočasné.
+S pomalým vydechnutím se Declan zvedl na nohy, přehodil si na rameno batoh. Modrá plátěná látka byla tuhá a nová, na straně vyšívaný erb svatého Kassiana v zlatě. Byl mu doručen přes noc v očekávání jeho příjezdu, spolu s uniformou třídy a týmovými hokejovými dresy. Pohodlně ignoroval uniformu a místo toho si oblékl dresy. Po sedmi hodinách stlačených v autobuse z Syracuse si dovolil někoho, kdo by řekl i slovo o jeho pozdním příchodu a nesplnění dress codu.
+Řidič mu krátce přikývl, když vystoupil z autobusu.
+  [Claude-4] Average Score: 68.5
+  Output: Dočasné.
+S pomalým výdechem se Declan postavil na nohy a přehodil si přes rameno sportovní tašku. Modré plátno bylo tuhé a nové, na boku byl zlatě vyšitý erb St. Cassian's. Poslali mu ji přes noc v očekávání jeho příjezdu, spolu s uniformou a hokejovými tepláky od týmu. Uniformu záměrně ignoroval a oblékl si místo toho tepláky. Po sedmi hodinách namačkaných v autobuse ze Syracuse si troufal někomu říct jediné slovo o tom, že přišel pozdě a ne v předepsaném oblečení.
+Řidič mu krátce pokýval, když vystupoval z autobusu.
+  [CommandA] Average Score: 77.5
+  Output: Dočasné.
+Declan se pomalu zvedl na nohy, přehodil si přes rameno plátěnou tašku a vydechl. Modrá látka byla tuhá a nová, na boku měla vyšitý zlatý znak svatého Kasiana. Taška mu byla doručena přes noc v očekávání jeho příjezdu, spolu s uniformou jeho třídy a hokejovým dresem vydaným týmem. Uniformu pohodlně ignoroval a místo toho si oblékl dres. Po sedmi hodinách nacpaných v autobuse ze Syracuse si dovolil, aby někdo řekl slovo o tom, že se objevil pozdě a porušil dress code.
+Řidič mu krátce přikývl, když vystoupil z autobusu.
+  [DeepSeek-V3] Average Score: 88.0
+  Output: Dočasné.  
+Declan se s pomalým výdechem zvedl na nohy a přehodil si přes rameno plátěnou tašku. Modrá látka byla tvrdá a nová, na boku vyšitý zlatý znak svatého Cassiana. Taška mu byla expresně doručena v očekávání jeho příjezdu, stejně jako třídní uniforma a hokejové tepláky od týmu. Uniformu pohodlně ignoroval a oblékl si raději tepláky. Po sedmi hodinách namačkaný v autobusu ze Syracuse by se někdo mohl pokusit mu vytknout, že přijel pozdě a nedodržel dress code.  
+Řidič mu krátce přikývl, když vystupoval.
+  [Gemini-2.5-Pro] Average Score: 92.5
+  Output: Dočasné.
+S pomalým výdechem se Declan postavil a přehodil si přes rameno sportovní tašku. Modré plátno bylo tuhé a nové, na boku zlatě vyšitý znak Svatého Kasiána. Poslali mu ji přes noc, aby ji měl připravenou na svůj příjezd, spolu se školní uniformou a týmovou hokejovou teplákovou soupravou. Uniformu záměrně ignoroval a místo ní si oblékl tepláky. Po sedmi hodinách strávených v autobuse ze Syrakus se odvažoval kohokoli, aby mu řekl jediné slovo o tom, že přijel pozdě a v nevhodném oblečení.
+Řidič na něj krátce kývl, když vystupoval z autobusu.
+  [Gemma-3-12B] Not annotated
+  Output: Dočasné.
+S pomalým výdechem se Declan postavil a hodil si přes rameno příruční tašku. Modrá plátěná látka byla tuhá a nová, erb svatého Kassiana vyšitý zlatou nití na boku. Byla mu doručena přes noc na očekávání jeho příjezdu, spolu s jeho školní uniformou a hokejovou soupravou. Uniformu záměrně ignoroval a místo toho si oblékl soupravu. Po sedmi hodinách namačkaný v autobusu ze Syrakus by se někdo odvážil říct slovo o tom, že přišel pozdě a mimo dress code.
+Řidič mu věnoval krátký kývnutí, když vystoupil z autobusu.
+  [Gemma-3-27B] Average Score: 67.0
+  Output: Dočasné.
+S pomalým výdechem se Declan zvedl na nohy a přehodil si přes rameno cestovní tašku. Modré plátno bylo tuhé a nové, na boku vyšitý znak sv. Kasiána zlatou nití. Doručili mu ji expresně s předstihem, spolu s uniformou a týmovými hokejovými tepláky. Uniformy si pohodlně nevšímal a raději si oblékl tepláky. Po sedmi hodinách stísněných v autobuse ze Syracuse si nedovolil, aby mu někdo vytkl pozdní příchod a nedodržení dress code.
+Řidič mu při vystupování z autobusu věnoval krátký pokyn hlavou.
+  [Llama-4-Maverick] Not annotated
+  Output: Dočasně.
+S pomalým výdechem se Declan zvedl na nohy a přehodil si vak přes rameno. Modrý plátěný materiál byl tuhý a nový, znak St. Cassianu byl na boku vyšívaný zlatou nití. Bylo mu to dodáno přes noc v očekávání jeho příjezdu, spolu s jeho třídní uniformou a hokejovým trenýrkem vydaným týmem. Uniformu pohodlně ignoroval a místo ní si natáhl trenýrky. Po sedmi hodinách namačkaných v autobuse z Syracus by se odvážil někdo říct jediné slovo o tom, že přijel pozdě a v nevhodném oblečení.
+Řidič mu pokynul hlavou, když vystoupil z autobusu.
+  [ONLINE-B] Not annotated
+  Output: Dočasně. Declan se s pomalým výdechem zvedl a přehodil si sportovní tašku přes rameno. Modrá plátěná taška byla pevná a nová, na boku zlatě vyšívaný erb svatého Kasiana. Byla mu darována přes noc, aby se mohl těšit na svůj příjezd, spolu s školní uniformou a hokejovými tepláky, které dostal od týmu. Uniformu pohodlně ignoroval a místo toho si oblékl tepláky. Po sedmi hodinách namačkaných v autobuse ze Syrakus se odvážil někoho vyzvat, aby se zmínil o tom, že se dostavil pozdě a nedodržel předepsaný oděv. Řidič mu krátce kývl, když vystupoval z autobusu.
+  [ONLINE-G] Not annotated
+  Output: Dočasný.
+S pomalým výdechem se Declan zvedl na nohy a přehodil si tašku přes rameno. Modré plátno bylo tuhé a nové, hřeben svatého Cassiana vyšívaný zlatem na boku. V očekávání jeho příchodu ho přehlédli spolu s jeho třídní uniformou a týmovými hokejovými Poty. Pohodlně ignoroval uniformu a místo toho si přitáhl pot. Po sedmi hodinách nacpaných v autobuse ze Syrakus se odvážil někoho říct slovo o tom, že se objevil pozdě a mimo dress code. 
+Řidič mu krátce přikývl, když vystoupil z autobusu.
+  [ONLINE-W] Not annotated
+  Output: Dočasné.
+S pomalým výdechem se Declan zvedl na nohy a přehodil si přes rameno tašku. Modré plátno bylo tuhé a nové, na boku měl zlatě vyšitý erb svatého Kassiána. Přišla mu přes noc v očekávání jeho příjezdu, spolu s jeho třídní uniformou a hokejovými tepláky, které mu tým vydal. Dres pohodlně ignoroval a místo něj si natáhl tepláky. Po sedmi hodinách namačkaných v autobuse ze Syrakus se odvážil, že někdo řekne slovo o tom, že přišel pozdě a mimo dress code.
+Když vystupoval z autobusu, řidič na něj krátce kývl.
+  [Qwen3-235B] Not annotated
+  Output: Dočasné.  
+Declan se pomalu zhluboka nadechl a vstal, přehodil si tašku přes rameno. Modrý plátno bylo tuhé a nové, znak sv. Cassiana vyhotovený zlatě na boku. Byla mu přepravena expresní poštou v předstihu před jeho příjezdem, spolu s školním stejnokrojem a trikem hokejového týmu. Stejnokroj si výhodně nevšímal a oblékl si místo toho triko. Po sedmi hodinách strávených na autobusové lavičce z Syracuse si troufl někoho vyzvat, aby řekl jediné slovo o tom, že přijel pozdě a v rozporu s oblečením.  
+Řidič mu jen krátce pokývl na pozdrav, když vystupoval z autobusu.
+  [CommandR7B] Not annotated
+  Output: Dočasný.
+S pomalým vydechnutím se Declan zvedl ze sedadel, popadl tašku a hodil si ji přes rameno. Modrý plátěný pytel byl tuhý a nový, s emblémem svatého Kassiana vyšívaným zlatou nití na straně. Byl mu doručen expresně v noci, ještě před jeho příjezdem, spolu s uniformou a týmovými hokejovými svetry. On si ale uniformu pohodlně nechtěl oblékat, raději si oblékl svetry. Po sedmi hodinách strávených v přeplněném autobusu z Syracy se odvážil, že si nikdo nebude stěžovat, že dorazil pozdě a v nesprávném oblečení.
+Řidič mu krátce pokývl hlavou, když vystoupil z autobusu.
+  [GPT-4.1] Average Score: 76.0
+  Output: Dočasné.
+S pomalým výdechem se Declan zvedl, přehodil si sportovní tašku přes rameno. Modré plátno bylo tuhé a nové, na boku vyšité zlaté logo St. Cassian’s. Poslali mu ji expresně před příjezdem, spolu se školní uniformou a týmovými hokejovými tepláky. Uniformu pohodlně ignoroval a oblékl si tepláky. Po sedmi hodinách namačkaný v autobuse ze Syrakus by si někdo mohl dovolit něco říct o tom, že přijel pozdě a mimo dress code.
+Řidič mu při vystupování jen krátce kývl.
+  [Llama-3.1-8B] Not annotated
+  Output: Dočasný.
+S pomalým vydechnutím se Declan postavil na nohy, přehodil přes rameno tašku. Modrá plátna byla pevná a nová, na straně byla vyšité zlaté označení St. Cassian’s. Byla mu doručena v noci v očekávání jeho příjezdu, spolu s uniformou jeho třídy a týmovými hokejovými ponožkami. Uniformu si pohodlně vynechal a obléhal si ponožky. Po sedmi hodinách strávených na autobusu z Syracuse se odvážil někoho vyzvat, aby mu řekl něco o tom, že se dostavil pozdě a v nesprávném oblečení.
+Řidič mu dal rychlý pohlavek, když vystoupil z autobusu.
+  [Mistral-7B] Not annotated
+  Output: Dočasný.
+S pomalým vydýcháním, vstal Declan na nohy a položil duffel bag na rameno. Modrý plášť byl tuhý a nový, St. Cassianův znak vyšitý zlata na straně. Byl mu přesunutý v noci, spolu s jeho třídním uniformem a týmovými hokejovými kalhotami. Zákeřivě ho ignoroval uniform, namísto toho si ponechal kalhoty. Po sedmi hodinách, které strávil na autobusu z Syracuse, nechal někdo říct slovo o jeho pozdním příjezdu a nevhodném oblečení.
+Řidič mu dal krátký uznání, když se vystoupil z autobusu.
+  [Qwen2.5-7B] Not annotated
+  Output: Prozatímně.
+S pomalým vdechem se Declan postavil a sloužil si svou vaku na rameno. Modré kanvasové vaku bylo tvrdé a nové, na straně byl vyšitý zlatý znak St. Cassiana. Byl mu předem doručen včas s jeho školním oblečením a školními hokejovými kalhotami. Konvenčně si vyhýbal oblečení a místo toho si oblékl kalhoty. Po sedmi hodinách zavřeného sedění na vlaku z Syracuse se odvážil, aby někdo řekl něco o tom, že přijel pozdě a mimo oblečení. 
+Šofér mu při odchodu z vlaku přikývl.
+  [Mistral-Medium] Average Score: 85.5
+  Output: Dočasné.
+S pomalým výdechem se Declan zvedl na nohy a přehodil si přes rameno cestovní tašku. Modrá plátěná látka byla tuhá a nová, na boku vyšívaný zlatý znak St. Cassian’s. Byla mu doručena expresně v očekávání jeho příjezdu, spolu s jeho školní uniformou a hokejovými tréninkovými věcmi. Uniformu pohodlně ignoroval a místo ní si vzal tréninkové oblečení. Po sedmi hodinách nacpaném v autobuse ze Syracuse se odvážil někdo říct slovo o tom, že přišel pozdě a v nesprávném oblečení.
+Řidič mu krátce přikývl, když vystupoval z autobusu.
+  [TowerPlus-9B] Average Score: 50.0
+  Output: Dočasné.
+Declan se pomalu zhluboka nadechl a zvedl se na nohy, přes rameno si přehodil tašku. Modrá plátěná taška byla nová a tuhá, na boku byl vyšívaný znak St. Cassian’s v zlaté barvě. Taška mu byla zaslána předem, aby na něj čekala, spolu s jeho školní uniformou a hokejovým oblečením, které mu zapůjčil tým. Uniformu pohodlně ignoroval a místo toho si vzal hokejové tepláky. Po sedmi hodinách strávených v autobuse ze Siracuse by se odvážil, aby mu někdo řekl, že přišel pozdě a v nevhodném oblečení.
+Když vystoupil z autobusu, řidič mu krátce pokynul hlavou.
+  [TowerPlus-72B] Not annotated
+  Output: Dočasné.
+Declan se pomalu vydýchl a postavil se, přehodil si přes rameno sportovní tašku. Modrá plátněná taška byla tuhá a nová, na boku měla vyšívaný zlatý erb St. Cassian. Byla mu přes noc doručena v očekávání jeho příjezdu spolu s uniformou a hokejovými kalhotami, které dostal od týmu. Uniformu pohodlně ignoroval a místo ní si oblékl kalhoty. Po sedmi hodinách strávených v autobuse z Syracuse si troufl, aby někdo řekl slovo o tom, že se objevil pozdě a bez dodržení oblékacího kódu.
+Řidič mu při vystupování z autobusu krátce pokýval hlavou.
+  [EuroLLM-9B] Not annotated
+  Output: Přes noc.
+S pomalým výdechem se Declan postavil na nohy a přehodil si přes rameno duffle bag. Modrá plachta byla tuhá a nová, na boku vyšívaný znak St. Cassianu ve zlaté barvě. Byla mu dopravena v očekávání jeho příjezdu spolu s jeho třídní uniformou a týmovými hokejovými kalhotami. Nepozorně ignoroval uniformu a místo toho si oblékl kalhoty. Po sedmi hodinách strávených v autobuse z Syrakus si dovolil, aby mu někdo řekl slovo o tom, že přišel pozdě a v nesprávném oblečení.
+Řidič mu při vystupování z autobusu krátce zamával.
+  [EuroLLM-22B] Not annotated
+  Output: Dočasně.
+S pomalým výdechem se Declan postavil na nohy a přehodil si cestovní tašku přes rameno. Modré plátno bylo tuhé a nové, na boku vyšitý znak svatého Kassiana ve zlaté barvě. Byl mu přepravený přes noc v očekávání jeho příjezdu, spolu s jeho třídní uniformou a týmovými hokejovými tepláky. Uniformu pohodlně ignoroval a místo ní si oblékl tepláky. Po sedmi hodinách v autobuse ze Syrakus si troufl někoho požádat, aby řekl slovo o tom, že přijde pozdě a mimo dress code.
+Řidič mu krátce pokýval hlavou, když vystoupil z autobusu.
+  [NLLB] Not annotated
+  Output: Dočasně.
+S pomalým výdechem se Declan postavil na nohy a přehnal si přes rameno tašku. Modré plátno bylo tuhé a nové, na boku byl zlatě vyšívaný znak sv. Cassiana. Byl mu přidělen v očekávání jeho příjezdu spolu s jeho třídní uniformou a hokejovými svetry vydanými týmem. Pohodlně ignoroval uniformu a namísto toho si oblékl svetry. Po sedmi hodinách v autobuse ze Syracuse se odvážil, aby někdo řekl slovo o tom, že se objevil pozdě a mimo dress code.
+Řidič mu krátce přikývl, když vystoupil z autobusu.
+
+Record: en-cs_CZ_#_literary_#_rink_rats_chapter2_#_2 (en-cs)
+Source: The fall air was colder than he expected, brisk and sharp as it hit his lungs. He zipped his windbreaker up higher and adjusted his grip on the bag. His eyes scanned the wide campus, tracing the stone buildings and manicured lawns with casual disinterest until they landed on the rink in the distance.
+There it was. The reason he was here.
+Hockey was the one thing that always made sense, even when everything else didn’t.
+On the ice, he was free. He could move how he wanted, think how he wanted, and he was good . Nothing else in his life had ever been that simple.
+  [refA] Average Score: 75.5
+  Output: Podzimní vzduch byl chladnější, než čekal. Tak pronikavý a ostrý, když mu dorazil do plic. Zapnul si větrovku až ke krku a lehce upravil svůj úchyt na batohu. Jeho oči projížděly celým kampusem, když sledoval kamenné budovy a anglické trávníčky s klasickým nezájmem. Tedy dokud nepřistály na stadionu v dáli.
+Je to tady. Důvod, pro který přijel.
+Hokej byla jediná věc, která mu kdy dávala smysl, i když nic jiného nedávalo.
+Na ledě byl volný. Mohl se pohybovat tak, jak chtěl, myslet, jak chtěl a byl v něm dobrý. Nic jiného v jeho životě nebylo tak jednoduché.
+  [Yolu] Average Score: 77.5
+  Output: Podzimní vzduch byl chladnější, než očekával, svěží a ostrý, když se mu vléval do plic. Zatáhl si bundu výš a upravil úchop tašky. Očima si prohlížel rozlehlý kampus, nevtíravě sledoval kamenné budovy a upravené trávníky, dokud jeho zrak nezůstal upoután na kluzišti v dálce.
+A to bylo ono. Důvod, proč byl tady.
+Hokej byl tou jedinou věcí, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet si, co chtěl, a byl skvělý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [SalamandraTA] Average Score: 71.0
+  Output: Podzimní vzduch byl chladnější, než očekával, prudký a ostrý, jak dopadl na jeho plíce. Zapnul si větrovku výš a upravil sevření tašky. Jeho oči prozkoumávaly široký kampus, sledovaly kamenné budovy a upravené trávníky s lhostejným nezájmem, dokud nespadly na kluziště v dálce.
+Zde byl důvod jeho přítomnosti.
+Jediná věc, která vždy dávala smysl, byl hokej, i když všechno ostatní smysl nedávalo.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nebylo tak jednoduché.
+  [CommandA-MT] Average Score: 85.5
+  Output: Podzimní vzduch byl chladnější, než očekával – svěží a ostrý, když mu vnikl do plic. Zapnul si větrovku výš a upravil si úchop tašky. Jeho oči prozkoumávaly rozlehlý kampus, sledovaly kamenné budovy a upravené trávníky s lhostejným nezájmem, dokud se nezaměřily na hřiště v dálce.
+Tady to bylo. Důvod, proč tu byl.
+Hokej byl to jediné, co vždy dávalo smysl, i když nic jiného nedávalo.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [CUNI-SFT] Not annotated
+  Output: Padákový vzduch byl chladnější, než čekal, ostrý a prudký, jak se dostal do plic. Zip na větrovce si přitáhl výš a upravil si držení tašky. Oči skenovaly široký areál, s lhostejným zaujetím sledoval kamenné budovy a upravené trávníky, dokud se nezaměřil na kluziště v dálce.
+Tady to bylo. Důvod, proč byl tady.
+Hokej byl jediná věc, která vždy dával smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet si, co chtěl, a byl dobrý. Nic v jeho životě nebylo nikdy tak jednoduché.
+  [CUNI-DocTransformer] Not annotated
+  Output: Podzimní vzduch byl chladnější, než čekal, svěží a ostrý, jak ho zasáhl do plic. Zapnul si větrovku výš a upravil si držení tašky. Očima přelétl široký areál a s nedbalým nezájmem obhlížel kamenné budovy a pěstěné trávníky, dokud nepřistály na kluzišti v dálce.
+Tady to bylo. Důvod, proč tu byl.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, přemýšlet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nebylo tak jednoduché.
+  [CUNI-MH-v2] Average Score: 92.5
+  Output: Vzduch byl chladnější, než očekával, svěží a ostrý, jakmile se dostal do plic. Zip na větrovce si přitáhl výše a upravil si držení tašky. Oči přešly po širokém areálu, po kamenných budovách a upravených trávnících s nezájmem, až se zastavily na ledové ploše v dálce.
+Tady to bylo. Důvod, proč byl tady.
+Hokej byl jediná věc, která vždy dávala smysl, i když všechno ostatní nedávalo smysl.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet si, co chtěl, a byl dobrý. Nic jiného v jeho životě nebylo nikdy tak jednoduché.
+  [Algharb] Average Score: 60.0
+  Output: Podzimní vzduch byl chladnější, než čekal, svěží a ostrý, když se mu dostal do plic. Více si zapnul větrák a upravil svůj úchyt na tašti. Přešel si pohledem široký kampus, sledoval kamenné budovy a upravené trávníky s nenuceným nezajímáním, dokud se jeho oči nezastavily na hřišti v dálce.
+Tam to bylo. Důvod, proč tu byl.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, přemýšlet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [GemTrans] Average Score: 65.0
+  Output: Podzimní vzduch byl chladnější, než očekával – byl svěží a pronikavý, když se ho nadechl. Zapnul si bundu až po krk a lépe si upravil úchop tašky. Jeho oči přejížděly po rozlehlém areálu univerzity, lhostejně si prohlížely kamenné budovy a upravené trávníky, dokud se nezastavily na kluzišti v dálce.
+Tady to je. Důvod, proč je tady.
+Hokej byl jediná věc, která mu vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet si, co chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [IRB-MT] Not annotated
+  Output: Podzimní vzduch byl chladnější, než čekal, ostrý a svěží, jak mu vnikl do plic. Vytáhl si zip větrovky až ke krku a pevněji sevřel tašku. Pohledem ledabyle přebížel rozlehlý kampus, kamenné budovy a upravené trávníky, až se zastavil na kluzišti v dáli.
+Tady je. Důvod, proč je tady.
+Hokej byl to jediné, co dávávalo smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Pohyboval, jak chtěl, myslel si, jak chtěl, a byl v tom dobrý hráč. Nic jiného v jeho životě nebylo tak jednoduché.
+  [Laniqo] Average Score: 77.5
+  Output: Vzduch byl chladnější, než očekával, byl prudký a ostrý a zmrazil mu plíce. Teplákovou bundu si přehodil ještě výše a pevněji sevřel rukojeť svého batohu. Rozhlédl se po širokém univerzitním areálu. Jeho oči přešly po kamenných budovách a upravených trávnících se zdánlivě lhostejným zájmem, než padly na kluziště v dálce.
+Tohle byl důvod, proč byl tady.
+Hokej byl jediná věc, která měla vždycky smysl, i když všechno ostatní bylo na nic.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, a myslet si, co chtěl, a bylo mu dobře. Nic v jeho životě nikdy nebylo tak jednoduché.
+  [IR-MultiagentMT] Not annotated
+  Output: Tady to bylo. Důvod, proč byl tady. 
+Hokej byl jediná věc, která vždy dávala smysl, i když ostatní nevypadaly. 
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+Posunul si tašku výše na rameni, přitahován k hřišti jako svalová paměť. Jeho nohy se začaly hýbat, aniž by si to opravdu uvědomoval. Pak ho vytrhla nějaká hlas. 
+  [Wenyiil] Average Score: 72.0
+  Output: Podzimní vzduch byl chladnější, než čekal, příjemně podráživý, když mu vnikal do plic. Zapnul si větrovku výš a upravil si úchop na tašce. Pohledem prohledal rozlehlý areál, sledoval kamenné budovy a upravené trávníky s nonšalantním nezajímáním, dokud se jeho oči nestřetly s kluzištěm v dálce.
+Tam to bylo. Důvod, proč tu byl.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, přemýšlet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [ctpc_nlp] Not annotated
+  Output:  Vzhledem k době, v níž byl, byl vzduch chladnější než očekával, prudký a ostrý, jak se dotkl jeho plic.  Zavázal si dres ještě výše a upřesil svoji drážku na tašku.  Jeho oči prozkoumávaly širou kampus, sledovaly kamenné budovy a pečlivě udržované trávníky s neochotnou nezájmem až se zastavily na hřišti v dálce.
+ A tak to bylo.  Proč byl právě tady.
+ Hokej byl jediné, co vždycky dával smysl, i když se to se vším ostatním neslušilo.
+ Na ledě byl svobodný.  Mohl se pohybovat jak chtěl, myslet jak chtěl a byl dobrý.  V jeho životě se nikdy nic jiného nestalo tak jednoduše.
+  [Shy] Average Score: 94.0
+  Output: Podzimní vzduch byl studenější, než čekal – ostrý a pronikavý, když ho vdechl do plic. Zapnul si větrovku až ke krku a přehodil si tašku pevněji přes rameno. Jeho oči přelétly rozlehlý areál, lhostejně sledovaly kamenné budovy a pečlivě střižené trávníky, dokud nespočinuly na stadionu v dálce.
+Tady to bylo. Důvod, proč je tady.
+Hokej byl ta jedna věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se hýbat, jak chtěl, myslet, jak chtěl, a byl v tom dobrý. Nic jiného v životě nebylo takhle jednoduché.
+  [SRPOL] Average Score: 70.5
+  Output: Vzduch byl chladnější, než očekával, a když se dostal do plic, byl svěží a ostrý. Zvedl si bundu výše a pevněji uchopil tašku. Oči se mu rozhlížely po širokém areálu, bez zájmu sledovaly kamenné budovy a upravené trávníky, až se zastavily na vzdálené ledové ploše. 
+Tady to bylo. Důvod, proč tu byl. 
+Hokej byl jediná věc, která dávala smysl, i když všechno ostatní nedávalo smysl. 
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet si, co chtěl, a byl dobrý. Nic jiného v jeho životě nebylo nikdy tak jednoduché.
+  [TranssionMT] Not annotated
+  Output: Pád vzduchu byl chladnější, než očekával, prudký a ostrý, když zasáhl jeho plíce.Zvýšil svůj windbreaker a upravil přilnavost na tašku.Jeho oči skenovaly široký areál, sledovaly kamenné budovy a manikurovaly trávníky s příležitostným zájmem, dokud nepřistály na pokraji vzdálenosti.
+Tam to bylo.Důvod, proč tu byl.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný.Mohl se pohybovat tak, jak chtěl, přemýšlet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [TranssionTranslate] Not annotated
+  Output: Podzimní vzduch byl chladnější, než čekal, svěží a ostrý, jak mu udeřil do plic. Zapnul si větrovku výš a upevnil si tašku. Jeho oči s ležérním nezájmem přejížděly po rozlehlém kampusu, sledovaly kamenné budovy a upravené trávníky, dokud nepřistály na kluzišti v dálce.
+Tak to bylo.Důvod, proč tu byl.
+Hokej byl to jediné, co vždycky dávalo smysl, i když všechno ostatní ne.
+Na ledě byl volný.Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [UvA-MT] Average Score: 98.5
+  Output: Podzimní vzduch byl chladnější, než očekával, ostrý a chladný, jak pronikal do jeho plic. Zatáhl si zip na bundě výš a upravil si úchop na tašce. Jeho oči skenovaly rozlehlý kampus, bez zájmu sledovaly kamenné budovy a upravené trávníky, dokud se nezastavily na kluzišti v dálce.
+Tam to bylo. Důvod, proč byl tady.
+Hokej byl jediná věc, která mu vždy dávala smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, přemýšlet, jak chtěl, a byl dobrý. Nic v jeho životě nikdy nebylo tak jednoduché.
+  [AyaExpanse-32B] Not annotated
+  Output: Podzimní vzduch byl chladnější, než očekával, ostrý a pronikavý, když se dotkl jeho plic. Zapnul si větrovku a pevněji uchopil tašku. Očima proběhl široké kampusové prostranství, letmo se zastavil na kamenných budovách a upravených trávnících, až nakonec dohlédl na vzdálenou ledovou plochu.
+Tam to bylo. Důvod, proč sem přišel.
+Hokej byl ta jediná věc, která vždy dávala smysl, i když všechno ostatní ne.
+Na ledu byl svobodný. Mohl se pohybovat a přemýšlet tak, jak chtěl, a byl dobrý. Nic jiného v jeho životě nebylo tak jednoduché.
+  [AyaExpanse-8B] Not annotated
+  Output: Podzimní vzduch byl chladnější, než očekával, ostrý a pronikavý, když zasáhl jeho plíce. Zvedl zip svého větráku výš a upravil si úchop tašky. Jeho oči prozkoumaly široký kampus, sledovaly kamenné budovy a upravené louky s neformálním desítek zájmu, dokud se nezastavily na ledové dráze v dálce.
+Tam to je. Důvod, proč byl tady.
+Hokej byl jedinou věcí, která vždy dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [Claude-4] Average Score: 89.5
+  Output: Podzimní vzduch byl chladnější, než očekával, ostrý a svěží, jak mu vstupoval do plic. Zatáhl si zip větrovky výš a upravil si úchop tašky. Očima prohledával rozlehlý kampus, sledoval kamenné budovy a upravené trávníky s lhostejným nezájmem, dokud jeho pohled nespočinul na kluzišti v dálce.
+Tady to bylo. Důvod, proč tu je.
+Hokej byla jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [CommandA] Average Score: 76.0
+  Output: Podzimní vzduch byl chladnější, než čekal, ostrý a pronikavý, jak mu dopadal na plíce. Přitáhl si zip větrovky a pevněji sevřel tašku. Očima přejížděl po rozlehlém kampusu, lhostejně sledoval kamenné budovy a upravené trávníky, dokud se nezastavil na kluzišti v dálce.
+Tam to bylo. Důvod, proč tu byl.
+Hokej byl to jediné, co vždy dávalo smysl, i když nic jiného nedávalo.
+Na ledě byl svobodný. Mohl se hýbat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [DeepSeek-V3] Average Score: 96.5
+  Output: Podzimní vzduch byl chladnější, než čekal, ostrý a ledový, jak mu pronikal do plic. Zapnul si větrovku až po krk a upravil si sevření tašky. Očima přejel po rozlehlém kampusu, lhostejně přelétl po kamenných budovách a upravených trávnících, dokud jeho pohled nespočinul na kluzišti v dálce.
+Tam to bylo. Důvod, proč tu byl.
+Hokej byla jediná věc, která dávala vždycky smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nebylo nikdy tak jednoduché.
+  [Gemini-2.5-Pro] Average Score: 95.0
+  Output: Podzimní vzduch byl chladnější, než čekal, svěží a ostrý, když mu vnikl do plic. Zapnul si větrovku výš a pevněji sevřel tašku. Očima přelétl široký areál, s ledabylým nezájmem sledoval kamenné budovy a upravené trávníky, dokud jeho pohled nespočinul na zimním stadionu v dálce.
+Tak tady to bylo. Důvod, proč tu je.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se hýbat, jak chtěl, myslet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [Gemma-3-12B] Not annotated
+  Output: Podzimní vzduch byl chladnější, než čekal, ostrý a svěží, jak mu vnikl do plic. Vytáhl si zip větrovky výš a upravil úchop na tašce. Pohledem přebíhal široký kampus, bez zájmu sledoval kamenné budovy a upravené trávníky, až se zastavil na kluzišti v dálce.
+Tam to bylo. Důvod, proč je tady.
+Hokej byl to jediné, co dávávalo smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Pohyboval, jak chtěl, myslel, jak chtěl, a byl v tom dobrý. Nic v jeho životě nebylo nikdy tak jednoduché.
+  [Gemma-3-27B] Average Score: 83.5
+  Output: Podzimní vzduch byl chladnější, než čekal, ostře a svižně štípal v plicích. Zatáhl si zip bundy výš a upravil si úchop tašky. Pohledem skenoval rozlehlý kampus, lhostejně sledoval kamenné budovy a upravené trávníky, dokud se jeho zrak nezastavil na kluzišti v dálce.
+Tam to bylo. Důvod, proč tu byl.
+Hokej byl jediná věc, která mu vždycky dávala smysl, i když všechno ostatní nedávalo.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet si, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [Llama-4-Maverick] Not annotated
+  Output: Podzimní vzduch byl chladnější, než čekal, svěží a pronikavý, když pronikl do jeho plic. Vyšplhal zip na větrovce výš a upravil si úchop tašky. Oči přelétly široký kampus, letmo přejely po kamenných budovách a udržovaných trávnících s nedbalým nezájmem, dokud nedorazily k bruslařskému oválu v dálce.
+Tady to bylo. Důvod, proč tu byl.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nebylo nikdy tak jednoduché.
+  [ONLINE-B] Not annotated
+  Output: Podzimní vzduch byl chladnější, než čekal, svěží a ostrý, jak mu udeřil do plic. Zapnul si větrovku výš a upravil si sevření tašky. Jeho oči s ležérním lhostejností přejížděly po širokém kampusu, sledovaly kamenné budovy a upravené trávníky, dokud nepřistály na kluzišti v dálce. Tady to bylo. Důvod, proč tady byl. Hokej byl jedinou věcí, která vždycky dávala smysl, i když všechno ostatní nedávalo. Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet, co chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [ONLINE-G] Not annotated
+  Output: Padající vzduch byl chladnější, než očekával, svižný a ostrý, když zasáhl jeho plíce. Zapnul si větrovku výš a upravil sevření tašky. Jeho oči skenovaly široký kampus, s příležitostným nezájmem sledoval kamenné budovy a upravené trávníky, dokud nepřistály na kluzišti v dálce.
+Tam to bylo. Důvod, proč tu byl.
+Hokej byl to jediné, co dávalo vždycky smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, přemýšlet, jak chtěl, a byl dobrý . Nic jiného v jeho životě nebylo tak jednoduché.
+  [ONLINE-W] Not annotated
+  Output: Podzimní vzduch byl chladnější, než čekal, prudký a ostrý, když mu dopadl na plíce. Zapnul si vyšší zip větrovky a upravil si držení tašky. Očima prohledával rozlehlý kampus a s nenuceným nezájmem sledoval kamenné budovy a pěstěné trávníky, dokud nepřistál na kluzišti v dálce.
+Bylo to tam. Důvod, proč tu byl.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a bylo mu dobře . Nic jiného v jeho životě nebylo tak jednoduché.
+  [Qwen3-235B] Not annotated
+  Output: Vzduch podzimu byl chladnější, než očekával, svěží a ostrý, když se mu dostával do plic. Zapnul si bundu až ke krku a upravil si sevření ruky na tašce. Očima přejížděl po širokém areálu, bez zájmu sledoval kamenné budovy a upravené trávníky, dokud se jeho pohled nezastavil na vzdálené ledové ploše.
+Tam to bylo. Důvod, proč sem přišel.
+Hokej byl jediná věc, která dávala smysl, i když všechno ostatní smysl nedávalo.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [CommandR7B] Not annotated
+  Output: Otoční vzduch byl chladnější, než čekal, ostrý a ostrý, když dopadl na jeho plíce. Zipl si windbreaker výš a přehodil si ruku na tašku. Oči mu skanovaly široký kampus, sledovaly kamenné budovy a manikúrované trávy s neformálním nezájmem, dokud se nezastavily na ledové ploše v dálce.
+Tam to bylo. Důvod, proč byl tady.
+Hokej byl jediná věc, která vždy dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se hýbat jak chtěl, myslet jak chtěl, a byl dobrý. Nic jiného v životě nikdy nebylo tak jednoduché.
+  [GPT-4.1] Average Score: 81.0
+  Output: Podzimní vzduch byl chladnější, než čekal, ostrý a svěží, jak mu vnikl do plic. Zapnul si větrovku až ke krku a upravil si tašku na rameni. Očima přelétl rozlehlý kampus, kamenné budovy a upravené trávníky sledoval s lhostejným nezájmem, dokud jeho pohled nespočinul na vzdáleném kluzišti.
+Tady to bylo. Důvod, proč je tady.
+Hokej byl jediná věc, která vždycky dávala smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [Llama-3.1-8B] Not annotated
+  Output: Podzimní vzduch byl chladnější, než si myslel, chladný a ostrý, jak se dotkl jeho plic. Zavřel si svrchní oděv z větru výše a upravil si držení tašky. Jeho oči prošly širokým kampusem, sledovaly kamenité budovy a pečlivě upravené trávníky s nezávazným zanícením, až se zastavily na ledě v dálce.
+Tam to bylo. Důvod, proč je tady.
+Hokej byl jedinou věcí, která vždycky měla smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý . Nic jiného v jeho životě nebylo nikdy tak jednoduché.
+  [Mistral-7B] Not annotated
+  Output: Zima vzduch byl studenější, než očekával, brzké a ostře se dotýkal jeho plic. Zapřáhl si svůj větrník více a upravil držení tašky. Oči jeho prošly širokým kampusem, vystřídaly kamenné budovy a řezané trávníky s nezajímavostí, až se zastavily na ledovém rinku vzdáleném.
+Tam ho čekal. Důvod, proč je zde.
+Hokej to byl jediné, co vždycky smysl dal, i když vše jiné neudělalo.
+Na ledě byl svobodný. Mohl se pohybovat tak, jak chtěl, myslet tak, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tolik jednoduché.
+  [Qwen2.5-7B] Not annotated
+  Output: Zimní vzduch byl chladnější, než si představoval, chladný a ostrý, jak ho cítil v plicích. Zatáhl si svršek vyšším a upravil svůj držák na tašku. Oči mu procházely širokým univerzitním areálem, přecházely po kamenných budovách a zahrádkách s nedbale zájmem, dokud se nezastavily na ligu daleko v dálce.
+Tam byl. Důvod, proč se tu nachází.
+Hokej byl jedinou věcí, která vždycky smysl měla, i když všechno jiné ne.
+Na ledě byl svobodný. Mohl se pohybovat tak, jak chtěl, myslet tak, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [Mistral-Medium] Average Score: 97.5
+  Output: Podzimní vzduch byl chladnější, než čekal, ostrý a rázný, jak mu pronikal do plic. Zipoval si větrovku až ke krku a upravil si držení tašky. Jeho pohled přelétl po širokém kampusu, sledoval kamenné budovy a pečlivě udržované trávníky s lhostejným nezájmem, dokud se nezastavil u vzdáleného kluziště.
+Tam to bylo. Důvod, proč tu je.
+Hokej byla jediná věc, která vždycky dávala smysl, i když nic jiného ne.
+Na ledě byl svobodný. Mohl se pohybovat, jak chtěl, přemýšlet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [TowerPlus-9B] Average Score: 59.5
+  Output: Podzimní vzduch byl chladnější, než očekával, svěží a pronikavý, když mu pronikl do plic. Zastrčil si zip mikiny výš a přitáhl si tašku k tělu. Jeho oči pročesávaly rozlehlý kampus, sledovaly kamenné budovy a upravené trávníky s ležérní lhostejností, až se zastavily na kluzišti v dálce.
+Tam to bylo. Důvod, proč byl tady.
+Hokej byl jediná věc, která mu vždy dávala smysl, i když všechno ostatní ne.
+Na ledě byl svobodný. Měl možnost se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [TowerPlus-72B] Not annotated
+  Output: Podzimní vzduch byl chladnější, než očekával, byl svěží a ostrý, když se dostal do plic. Natáhl si větrovku výš a upravil si sevření tašky. Očima prohlížel rozlehlý areál, lhostejně sledoval kamenné budovy a upravené trávníky, dokud se jeho pohled nezastavil na daleké hřišti.
+Tady to bylo. Důvod, proč tu byl.
+Hokej byl jedinou věcí, která dávala vždy smysl, i když vše ostatní nedávalo.
+Na ledu byl svobodný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nebylo nikdy tak jednoduché.
+  [EuroLLM-9B] Not annotated
+  Output: Zimní vzduch byl chladnější, než očekával, svěží a ostrý, když se dostal do plic. Zipoval si větrovku výše a upravil si držení tašky. Oči projížděly širokým areálem, s lehkou lhostejností sledovaly kamenné budovy a upravené trávníky, až se zastavily na kluzišti v dálce.
+Tady to bylo. Důvod, proč byl tady.
+Hokej byl jediná věc, která vždy dávala smysl, i když všechno ostatní nedávalo.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý. Nic jiného v jeho životě nebylo nikdy tak jednoduché.
+  [EuroLLM-22B] Not annotated
+  Output: Podzimní vzduch byl chladnější, než očekával, svěží a ostrý, když mu vnikl do plic. Přetáhl si větrovku výš a upravil si držení tašky. Jeho oči projížděly širokým areálem, sledovaly kamenné budovy a upravené trávníky s ležérním nezájmem, dokud se nezastavil na zamrzlém kluzišti v dálce.
+Tady to bylo. Důvod, proč tu byl.
+Hokej byl jediná věc, která dávala vždycky smysl, i když všechno ostatní ne.
+Na ledě byl volný. Mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl v tom dobrý. Nic jiného v jeho životě nikdy nebylo tak jednoduché.
+  [NLLB] Not annotated
+  Output: Podzimní vzduch byl chladnější, než očekával, živý a ostrý, když se dotýkal jeho plic. Zapnul si větrný plášť výš a upravil držení na tašce. Jeho oči prohlížely široký kampus, sledovaly kamenné budovy a upravené trávníky s neformálním nezaujetím, dokud nezasáhli v dálce na křižovatce.
+Důvod, proč tu byl.
+Hokej byl jediná věc, která vždy dává smysl, i když všechno ostatní nedává smysl.
+Na ledě byl volný, mohl se pohybovat, jak chtěl, myslet, jak chtěl, a byl dobrý.
+
+Record: en-cs_CZ_#_literary_#_rink_rats_chapter2_#_3 (en-cs)
+Source: He shifted his bag higher on his shoulder, drawn toward the rink like muscle memory. His feet started moving without him even really deciding to. Then a voice snapped him out of it.
+“Excuse me, sweetheart! New arrival?”
+An older woman in a St. Cassian’s blazer was waving him down from the main entrance, clipboard in hand and a no-nonsense energy that made him stop in his tracks.
+“Uh, yeah,” he said, squinting against the sun. “I’m Declan. Declan Hull.”
+“Oh, hi, Declan.” She smiled as she caught up to him, a little out of breath but friendly. “I’m Heather Burke, Director of Admissions.” She extended her hand with practiced warmth, like she’d done this a hundred times before.
+  [refA] Average Score: 84.5
+  Output: Přehodil si tašku přes rameno a svalová paměť ho táhla směrem k ledu. Jeho nohy se začaly pohybovat bez toho, aby nad nimi měl jakoukoliv vládu. Ze zamyšlení ho vytrhl až hlas.
+„Promiň, zlatíčko! Nový přírůstek?“
+Od hlavního vchodu na něj s tabulkou v ruce mávala starší žena v blůze St. Cassian’s blůze a její nekompromisní energie jej přinutila se zastavit.
+„Umm, ano,“ řekl přivíraje oči před sluncem. „Jsem Declan. Declan Hull.“
+„Ach, ahoj, Declane.“ Usmála se, když ho konečně dohnala, trochu zadýchaná, ale přívětivá. „Jsem Heather Burkeová, ředitelka přijímacího oddělení.“ Podala mu ruku s nacvičenou srdečností, jako by tohle gesto dělala už stokrát.
+  [Yolu] Average Score: 89.0
+  Output: Posunul si tašku výš na rameno, táhlo ho to k kluzišti, jako by to byla svalová reflexe. Jeho nohy se začaly hýbat, aniž by o tom skutečně rozhodl. Pak ho z toho vytrhl hlas.
+„Promiňte, miláčku! Jste tu poprvé?“
+Starší žena v saku s logem sv. Kasijána mu zamávala z hlavního vchodu, držela v ruce poznámkový blok a měla v sobě energii a rozhodnost, které ho donutily se zastavit.
+„Ehm, jo,“ řekl a přimhouřil oči proti slunci. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane.“ Zasmála se, když ho dohnala, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího oddělení.“ Podala mu ruku s vycvičenou přívětivostí, jako by to dělala už stokrát.
+  [SalamandraTA] Average Score: 78.0
+  Output: Posunul batoh výš na rameno, jakési svalové vzpomínky ho přitahovaly k ledové ploše. Jeho nohy se daly do pohybu i bez toho, že by se k tomu opravdu rozhodl. Pak ho z toho vytrhl hlas.
+„Omlouvám se, miláčku! Nový příchozí?“
+Stárší žena v saku ze St. Cassian na něj mávala z hlavního vchodu, v ruce držela psací desku a měla energický výraz, který ho přiměl zastavit se.
+„Ano,“ řekl a mhouřil oči proti slunci. „Jmenuji se Declan, Declan Hull.“
+‚Ahoj, Declane!‘ usmála se, když ho dohonila. Byla trochu vyčerpaná, ale přátelská. ‚Jsem Heather Burkeová, ředitelka přijímacího řízení.‘ Podala mu ruku s nacvičeným vřelým výrazem, jako by to dělala už stokrát.
+  [CommandA-MT] Average Score: 82.0
+  Output: Přehodil si tašku výš na rameni, jako by ho k hřišti táhla svalová paměť. Jeho nohy se začaly hýbat, aniž by se o tom skutečně rozhodl. Pak ho z toho vytrhl hlas.
+„Promiňte, miláčku! Nový příjezd?“
+Starší žena v saku sv. Kasiána na něj mávala od hlavního vchodu, v ruce držela klípy a vyzařovala z ní praktická energie, která ho donutila zastavit se.
+„Eh, jo,“ řekl a mhouřil oči proti slunci. „Jsem Declan. Declan Hull.“
+„Ó, ahoj, Declane,“ usmála se, když ho dohnala, trochu udýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s procvičenou vřelostí, jako by to dělala už stokrát.
+  [CUNI-SFT] Not annotated
+  Output: Přesunul si tašku výše na rameno, přitahován k ledové ploše jako svalová paměť. Jeho nohy začaly pohybovat, aniž by se o tom skutečně rozhodl. Pak ho hlas vytrhl z toho.
+„Promiňte, miláčku! Nový přírůstek?“
+Starší žena v saku St. Cassian mu mávala z hlavního vchodu, v ruce měla záznamový arch a její bezohledná energie ho donutila zastavit.
+„Ano,“ řekl, přivíral oči proti slunci. „Jsem Declan. Declan Hull.“
+„Ahoj, Declan.“ Usmála se, když ho dohnala, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s procvičenou srdečností, jako by to dělala stokrát.
+  [CUNI-DocTransformer] Not annotated
+  Output: Posunul si tašku na rameni výš, táhlo ho to ke kluzišti jako svalovou paměť. Nohy se mu daly do pohybu, aniž by se k tomu vůbec rozhodl. Pak ho z toho vytrhl hlas.
+„Promiň, miláčku! Nový přírůstek?“
+Od hlavního vchodu na něj mávala starší žena v saku sv. Cassiana, v ruce podložku a ne-nesmyslnou energii, která ho přiměla zastavit se.
+„No jo,“ přimhouřil oči před sluncem. „Já jsem Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když ho dohnala, trochu udýchaná, ale přátelská. „Já jsem Heather Burkeová, ředitelka přijímacího řízení.“ Natáhla ruku s nacvičenou vřelostí, jako by to už dělala stokrát předtím.
+  [CUNI-MH-v2] Average Score: 72.5
+  Output: Přesunul si tašku výše na rameno a byl přitahován k ledové ploše jako svalová paměť. Jeho nohy se začaly pohybovat, aniž by se o to skutečně rozhodl. Pak ho z toho vytrhla nějaká hlasitá slova.
+„Omlouvám se, miláčku! Nový přírůstek?“
+Starší žena v kabátu svatého Cassiana na něj mávala z hlavního vchodu, s klipboardem v ruce a s energií, která ho zastavila v jeho pohybu.
+„Ehm, jo,“ řekl, přivíral oči před sluncem. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když ho dohnala, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s procítěnou srdečností, jako by to dělala stokrát předtím.
+  [Algharb] Average Score: 40.0
+  Output: Posunul si taštu výš na rameni, přitahován k tomu ledovému hřišti jako svalovou pamětí. Chodidla se mu začala pohybovat sama od sebe, aniž by se pro to vlastně rozhodl. Pak ho z toho vyvedl hlas.
+„Promiňte, sakra! Nováček?“
+Starší žena v sako svatého Kassiana mu mávala z hlavního vchodu, s pochutí v ruce a neuvěřitelnou energií, která ho donutila zastavit se na místě.
+„Ehm, jo,“ řekl a mračil se proti slunci. „Jsem Declan. Declan Hull.“
+„Ach, dobrý den, Declane.“ Usmála se, když ho dohnala, trochu ztracená dech, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Natáhla ruku s nacvičeným teplem, jako by to dělala už stokrát předtím.
+  [GemTrans] Average Score: 61.5
+  Output: Přesunul si tašku výš na rameno a jako by ho něco táhlo, zamířil k ledové ploše, jako by to dělal automaticky. Jeho nohy se daly do pohybu, aniž by se o to vědomě rozhodl. Pak ho z toho vytrhl hlas.
+„Promiňte, mladý muži! Jste nový?“
+Starší žena v bundě s logem „St. Cassian’s“ na něj mávala od hlavního vchodu, v ruce držela složku a vyzařovala takovou energii, že ho to donutilo zastavit.
+„Ehm, ano,“ odpověděl a přimhouřil oči proti slunci. „Jmenuji se Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když se k němu přiblížila, trochu zadýchaná, ale přátelská. „Jmenuji se Heather Burke a jsem ředitelka oddělení přijímacího řízení.“ Podala mu ruku s profesionální srdečností, jako by to dělala už stokrát.
+  [IRB-MT] Not annotated
+  Output: Přesunul tašku výš na rameno, a byl přitahován k kluzišti jako pod vlivem svalové paměti. Nohy se mu rozběhly, aniž by se k tomu skutečně rozhodl. Pak ho vyvedla z transu hlas.
+„Promiňte, slečno! Nový příchozí?“
+Starší žena v blézeře s logem St. Cassian ho mávala z hlavního vchodu, v ruce držela svěrák a měla tak neústupný výraz, že se na místě zastavil.
+„Ehm, jo,“ řekl a zamračil se proti slunci. „Jmenuju se Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když ho dohonila, přátelská a lehce zadýchaná. „Jsem Heather Burke, ředitelka přijímacího řízení.“ Natáhla k němu ruku s přirozenou vlídností, jako by to už stokrát dělala.
+  [Laniqo] Average Score: 83.5
+  Output: Přesunul si batoh výš na rameno a jeho pohyby se staly téměř automatickými. Jako by ho k ledové ploše táhla svalová paměť. Jeho nohy se začaly pohybovat samovolně. Pak ho někdo zprudka vyrušil.
+„Omlouvám se, miláčku! Nový přírůstek?“
+U hlavního vchodu na něj mávala starší dáma v bundě od St. Cassianu, v ruce držela svazek papírů, a její nezlomná energie ho okamžitě zastavila.
+„Ano, jasně,“ odvětil a naklonil se ke slunci. „Jmenuji se Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když se k němu dostala. Byla trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímací komise.“ S jistou lehkostí podala ruku, jako by tohle už stokrát dělala.
+  [IR-MultiagentMT] Not annotated
+  Output:  „Promiňte, miláčku! Nový příchozí?“ 
+Starší žena v saku svatého Kassiana mu mávala z hlavního vchodu, clipboard v ruce a bezprostřední energii, která ho přiměla zastavit na místě. 
+ „Uh, ano,“ řekl, mhouříc oči proti slunci. „Jsem Declan. Declan Hull.“ 
+ „Oh, ahoj, Declan.“ Usmála se, když ho dohnala, lehce zadýchaná, ale přátelská. „Jsem Heather Burke, ředitelka přijímacího oddělení.“ Vystrčila ruku s obvyklou vřelostí, jako by to dělala už tisíckrát.
+ „Ahoj,“ řekl Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči se neustále vracely k hřišti. 
+  [Wenyiil] Average Score: 46.5
+  Output: Přesunul si tašku výš na rameni, přitahován k tomu koberci, jako by ho tam vedla svalová paměť. Jeho nohy se začaly pohybovat, aniž by se o to vůbec rozhodl. Pak ho z toho vytrhl hlas.
+„Promiňte, zlatíčko! Jsi tu poprvé?“
+Starší žena v blazeru svatého Kassiána na něj mávala od hlavního vchodu, s papírovou destičkou v ruce a nesmlouvavou energií, která ho přiměla se na místě zastavit.
+„Ehm, jo,“ řekl a přimhouřil oči proti slunci. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když ho dohnala, trochu zadýchaná, ale přátelsky. „Jsem Heather Burkeová, ředitelka přijímacího oddělení.“ Natáhla ruku s náležitou vřelostí, jako by to dělala už stokrát.
+  [ctpc_nlp] Not annotated
+  Output:  Odměnil tašku výše na rameno, přitahovanou k ledině jako bydliště.  Namočili se jeho nohy, aniž by mu to nějak zaregistroval.  Potom ho vytrhal hlas.
+ “Omlouvám se, miláčku!  Nový přílet?”
+ Martin-in-the-Fields kostele starší žena v kostele St Martin-in-the-Fields  Blazer Cassiana mu vlnil z hlavního vchodu, měl v ruce blokovací list a tvrdý, rozhodující zájem, který ho donutil zastavit.
+ „No, prostě jsem tady,“ řekl, že je pro něj těžké se dívat proti slunci.  “Jsem Declan.”  Declan Hull.
+ „Oh, haló, Declan.“  Úsměvně ji doháněl, byla trochu dechnat, ale přátelsky.  „Jsem Heather Burke, ředitelka oddělení.“  Přitáhla si ruku s vypravenou teplem, jako by to už stovky tak dělala.
+  [Shy] Average Score: 90.0
+  Output: Posunul si tašku výš na rameno, přitahován ke kluzišti jako na autopiloto. Nohy se mu daly do pohybu, aniž by se skutečně rozhodl. Pak ho z myšlenek vytrhl něčí hlas.
+„Promiňte, zlatíčko! Jste nový příchozí?“
+Starší žena v saku St. Cassian’s na něj mávala od hlavního vchodu, v ruce měla blok s poznámkami a vyzařovala z ní rázná, nekompromisní energie, která ho donutila zastavit.
+„Ehm, jo,“ řekl a mhouřil oči proti slunci. „Jmenuju se Declan. Declan Hull.“
+„Ach, ahoj, Declane.“ Usmála se, když k němu došla, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s nacvičenou vřelostí, jako by to dělala už stokrát předtím.
+  [SRPOL] Average Score: 54.0
+  Output: Přesunul si tašku výše na rameno, jako by ho k ledové ploše táhla svalová paměť. Jeho nohy se začaly pohybovat, aniž by se k tomu skutečně rozhodl. Pak ho z toho vytrhla nějaká hlasitá věta.
+„Omlouvám se, miláčku! Nový příchozí?“
+Starší žena v bundě St. Cassian's mu mávala z hlavního vchodu, s křídou v ruce a s energií, která ho zastavila na místě.
+„Ehm, jo,“ řekl, přivíral oči před sluncem. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když ho dohnala, trochu zadýchaná, ale přátelsky. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ S praktickou srdečností mu podala ruku, jako by to dělala stokrát předtím.
+  [TranssionMT] Not annotated
+  Output: Přesunul svou tašku nahoru na rameno, přitahován směrem k rinku jako svalová paměť.Jeho nohy se začaly pohybovat, aniž by se rozhodl.Potom ho z něj vytrhl hlas.
+"Promiň, miláčku!Nový příjezd? "
+Starší žena v St. Cassianův blazer ho odklonil od hlavního vchodu, klávesnice v ruce a nesmyslnou energii, která ho přiměla zastavit se v jeho stopách.
+"Ano", řekl, "křičel na slunce."Já jsem Declan.Declan Hullová. "
+"Ahoj, Declan. "Usmála se, když se k němu dostala, trochu z dechu, ale přátelsky."Jsem Heather Burke, ředitelka přijímacích služeb. "Rozšířila ruku s cvičeným teplem, jako to dělala stokrát předtím.
+  [TranssionTranslate] Not annotated
+  Output: Posunul si tašku výš na rameni, tažená ke kluzišti jako svalová paměť. Jeho nohy se začaly pohybovat, aniž by se o to vůbec rozhodl. Pak ho z toho vytrhl hlas.
+„Promiň, zlato! Nově příchozí?“
+Starší žena v saku od St. Cassian's mu mávala od hlavního vchodu, v ruce psací desku a s takovou energií, že se zarazil.
+„Ehm, jo,“ řekl a mhouřil oči proti slunci.„Jsem Declan.“Declan Hull.“
+„Ach, ahoj, Declane.“Usmála se, když ho dostihla, trochu zadýchaná, ale přátelská.„Jsem Heather Burkeová, ředitelka přijímacího řízení.“Natáhla ruku s nacvičenou vřelostí, jako by to udělala už stokrát předtím.
+  [UvA-MT] Average Score: 60.0
+  Output: Přesunul si tašku výš na rameno, přitahován k kluzišti, jako by to byla svalová paměť. Jeho nohy se začaly pohybovat, aniž by se o to skutečně snažil. Pak ho vytrhla z transu hlas.
+“Omlouvám se, miláčku! Nový příchozí?”
+Starší žena v blézeru ze St. Cassian’s ho mávala z hlavního vchodu, v ruce držela svazek papírů a vyzařovala energii, která ho donutila zastavit.
+“Ehm, ano,” řekl a zamračil se proti slunci. “Jsem Declan. Declan Hull.”
+“Oh, ahoj, Declane.” Usmála se, když se k němu přiblížila, trochu zadýchaná, ale přátelská. “Jsem Heather Burke, ředitelka přijímacího řízení.” Natáhla k němu ruku s obvyklým úsměvem, jako by to dělala už stokrát.
+  [AyaExpanse-32B] Not annotated
+  Output: Posunul si tašku výš na rameni, jako by ho k ledu přitahovala svalová paměť. Jeho nohy se daly do pohybu, aniž by se skutečně rozhodl. Pak ho z toho vyrušil hlas.
+„Promiňte, miláčku! Nový příchozí?“
+Starší žena v saku se znakem Svatého Kassiana mávala na něj z hlavního vchodu, v ruce měla blok a vyzařela z ní energie, která znamenala, že musí zastavit.
+„Ehm, ano,“ řekl, mžoural do slunce. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když k němu došla, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s profesionální vřelostí, jako by to dělala stokrát denně.
+  [AyaExpanse-8B] Not annotated
+  Output: Přemístil svou tašku výš na rameno, přitahován k ledové ploše jako svalová paměť. Jeho nohy začaly pohybovat bez toho, aby o tom skutečně rozhodoval. Pak ho vytrhl z toho hlas.
+„Promiňte, miláčku! Nový příjezd?“
+Starší žena v blazeru se znakem Svatého Kasiána ho zastavila u hlavní brány, v ruce měla zápisník a nekompromisní energii, která ho donutila zastavit.
+„No, ano,“ řekl, mrkaje do slunce. „Jsem Declan. Declan Hull.“
+„Ach, Declane,“ usmála se, když k němu dohonila, trochu mimo dech, ale přátelsky. „Jsem Heather Burke, ředitelka přijímacího řízení.“ Podala mu ruku s procvičenou vřelostí, jako by to dělala stokrát předtím.
+  [Claude-4] Average Score: 70.5
+  Output: Přehodil si tašku výš na rameno a táhl ho k zimnímu stadionu jako svalová paměť. Nohy se mu daly do pohybu, aniž by se vlastně rozhodl. Pak ho z toho vytrhla něčí hlas.
+„Promiňte, zlatíčko! Nový příchozí?"
+Starší žena v saku St. Cassian's na něj mávala od hlavního vchodu, se schránkou v ruce a s energií, která nesnášela nesmysly a přinutila ho zastavit.
+„Ehm, jo," řekl a mžoural proti slunci. „Jsem Declan. Declan Hull."
+„Ach, ahoj, Declane." Usmála se, když ho doběhla, trochu udýchaná, ale přátelská. „Jsem Heather Burke, ředitelka přijímacího oddělení." Podala mu ruku s nacvičenou vřelostí, jako by to dělala už stokrát.
+  [CommandA] Average Score: 90.0
+  Output: Přehodil si tašku výš na rameni a nechal se vést k bruslařskému stadionu, jako by to byla svalová paměť. Jeho nohy se rozběhly, aniž by se o tom skutečně rozhodl. Pak ho z toho vytrhl hlas.
+„Promiňte, miláčku! Nový příjezd?“
+Starší žena v saku sv. Kasiana na něj mávala od hlavního vchodu, v ruce držela klipy a vyzařovala z ní rázná energie, která ho donutila zastavit se.
+„Ehm, jo,“ řekl a mhouřil oči proti slunci. „Jsem Declan. Declan Hull.“
+„Ó, ahoj, Declane.“ Usmála se, když ho dohnala, trochu udýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímaček.“ Podala mu ruku s procvičenou vřelostí, jako by to už udělala stokrát předtím.
+  [DeepSeek-V3] Average Score: 74.5
+  Output: Přehodil si tašku výš na rameno a nevědomky se vydal směrem k kluzišti, jako by ho vedly svaly. Nohy se mu rozběhly, aniž by o tom skutečně rozhodl. Pak ho z transu vytrhl hlas.
+„Promiňte, zlatíčko! Jste nový příchozí?“
+Starší žena v blazeru St. Cassian’s na něj mávala od hlavního vchodu, s podložkou v ruce a s energií, která nedovolovala žádné řeči. Donutila ho zastavit.
+„Eh, jo,“ řekl a mhouřil oči proti slunci. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když k němu došla, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s procvičenou srdečností, jako by to už udělala stokrát předtím.
+  [Gemini-2.5-Pro] Average Score: 92.5
+  Output: Posunul si tašku výš na rameni, přitahován k zimáku jako svalovou pamětí. Nohy se mu daly do pohybu, aniž by se pro to pořádně rozhodl. Pak ho z toho vytrhl něčí hlas.
+„Promiňte, mladíku! Nový přírůstek?“
+Starší žena v saku Svatého Kasiána na něj mávala od hlavního vchodu, v ruce desky s klipem a s rázným vystupováním, které ho donutilo zastavit se na místě.
+„Jo, uhm,“ řekl a zamžoural proti slunci. „Jsem Declan. Declan Hull.“
+„Ach, ahoj, Declane.“ Usmála se, když ho dostihla, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s nacvičenou vřelostí, jako by to dělala už stokrát.
+  [Gemma-3-12B] Not annotated
+  Output: Přesunul tašku výš na rameni, táhnuto směrem k dráze jako svalová paměť. Nohy se mu rozběhly, aniž by se k tomu skutečně rozhodl. Pak ho vytrhla z myšlenek hlas.
+„Promiňte, drahoušku! Nový příchozí?“
+Starší žena v blézeře St. Cassian’s mu mávala z hlavního vchodu, v ruce držela štos papírů a vyzařovala takovou neústupnost, že se na místě zastavil.
+„Ehm, jo,“ řekl a zamračil se proti slunci. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když ho dohonila, lehce zadýchaná, ale přátelská. „Jsem Heather Burke, ředitelka přijímacího řízení.“ Natáhla k němu ruku s nacvičenou vlídností, jako by to už stokrát dělala.
+  [Gemma-3-27B] Average Score: 69.5
+  Output: Zvedl si tašku výš na rameno, přitahován k hřišti jako automaticky. Jeho nohy se daly do pohybu, aniž by se to vůbec rozhodl. Pak ho hlas vytrhl z transu.
+„Promiňte, miláčku! Nováček?“
+Starší žena v bundě St. Cassian’s na něj mávala od hlavního vchodu, v ruce měla složku a energii, která nedopouštěla odporu, a donutila ho zastavit.
+„Ehm, jo,“ řekl a přimhouřil oči proti slunci. „Jmenuju se Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když ho dohnala, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka pro přijímací řízení.“ Podala mu ruku s procvičovanou vřelostí, jako by to dělala už stovkykrát.
+  [Llama-4-Maverick] Not annotated
+  Output: Přehodil si batoh výš na rameno, přitahován k hřišti jako magnetem. Jeho nohy se začaly pohybovat, aniž by se sám pořádně rozhodl. Pak ho ale vytrhl z transu nějaký hlas.
+"Promiňte, miláčku! Nový přírůstek?"
+Starší žena v saku St. Cassian's mu mávala z hlavního vchodu, v ruce měla podložku a vyzařovala z ní energie nestrpící žádné nesmysly, která ho přiměla zastavit se.
+"Uh, jo," řekl a přimhouřil oči proti slunci. "Jsem Declan. Declan Hull."
+"Ach, ahoj, Declane," usmála se, když ho dohnala, trochu udýchaná, ale přátelsky. "Jsem Heather Burkeová, ředitelka přijímací komise." S procvičeným vřelým úsměvem k němu natáhla ruku, jako by tohle dělala už stokrát.
+  [ONLINE-B] Not annotated
+  Output: Posunul si tašku výš na rameni a táhl ji ke kluzišti jako svalovou paměť. Jeho nohy se začaly pohybovat, aniž by se o to skutečně rozhodl. Pak ho z toho vytrhl hlas. „Promiň, zlato! Nově příchozí?“ Starší žena v saku od St. Cassian&#39;s mu mávala od hlavního vchodu, v ruce psací desku a s energií, která ho donutila zastavit se. „Ehm, jo,“ řekl a mhouřil oči proti slunci. „Jsem Declan. Declan Hull.“ „Ach, ahoj, Declane.“ Usmála se, když ho dohonila, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího oddělení.“ Natáhla ruku s nacvičenou vřelostí, jako by to udělala už stokrát předtím.
+  [ONLINE-G] Not annotated
+  Output: Posunul tašku výš na rameno, přitáhl se k kluzišti jako svalová paměť. Jeho nohy se začaly pohybovat, aniž by se o tom opravdu rozhodl. Pak ho z toho vytrhl hlas.
+"Promiňte, zlatíčko! Nový příjezd?”
+Starší žena v sako svatého Cassiana ho mávala od hlavního vchodu, schránka v ruce a nesmyslná energie, která ho přiměla zastavit se v jeho stopách.
+"Jo," řekl a zamžoural proti slunci. "Já jsem Declan. Declan Hull.”
+"Ahoj, Declane."Usmála se, když ho dohnala, trochu zadýchaná, ale přátelská. "Jsem Heather Burke, ředitelka přijímacích řízení."Natáhla ruku s praktikovaným teplem, jako by to udělala stokrát předtím.
+  [ONLINE-W] Not annotated
+  Output: Posunul si tašku výš na rameni, táhlo ho to k kluzišti jako svalová paměť. Nohy se mu daly do pohybu, aniž by se k tomu skutečně rozhodl. Pak ho z toho vytrhl hlas .
+"Promiň, miláčku! Nový přírůstek?"
+Od hlavního vchodu na něj mávala starší žena v blejzru svatého Kassiána, v ruce měla klip a v ruce energii, která ho přiměla zastavit se.
+"Jo," řekl a zamžoural proti slunci. "Já jsem Declan. Declan Hull."
+"Ahoj, Declane." Usmála se, když ho dohnala, trochu zadýchaná, ale přátelská. "Já jsem Heather Burkeová, ředitelka přijímacího oddělení." Natáhla ruku s nacvičenou vřelostí, jako by to dělala už stokrát.
+  [Qwen3-235B] Not annotated
+  Output: Zaklonil se, aby si lépe přidržel tašku na rameni, a jako magnetem ho táhlo ke kluzišti. Jeho nohy se daly do pohybu, aniž by si vlastně uvědomil, že se rozhodl jít. Pak ho však vytrhla z myšlenek něčí slova.
+„Promiňte, miláčku! Jste nový?“
+Starší žena v saka se školním logem St. Cassian ho mávala od hlavního vchodu, v ruce měla podložku a vyzařovala energii, která ho donutila zastavit.
+„Ehm, jo,“ odpověděl a mžoural proti slunci. „Jmenuju se Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když k němu došla, trochu bez dechu, ale přátelsky. „Jsem Heather Burke, ředitelka přijímacího řízení.“ Podala mu ruku s procvičenou srdečností, jako by to dělala už stokrát předtím.
+  [CommandR7B] Not annotated
+  Output: Zvedl si tašku na rameni výš, jako by ho k ledové ploše táhl automatismus. Nohy mu začaly bez jeho vědomí chodit. Pak ho z toho vytrhlo něco, co znělo jako:
+„Omlouvám se, miláčku! Nový příchozí?“
+Starší žena v blazeru svatého Cassiana ho volala z hlavní brány, se šipkou a energickou povahou, která ho donutila zastavit.
+„Ehm, jo,“ řekl, zamračeně se díval na slunce. „Jsem Declan. Declan Hull.“
+„Ahoj, Declanu,“ usmála se, když se k němu dostávala, trochu zmateně, ale mile. „Jsem Heather Burke, ředitelka admissions.“ Nabídla mu ruku s practiced warmth, jako by to dělala stokrát.
+  [GPT-4.1] Average Score: 77.5
+  Output: Tašku si posunul výš na rameni, táhl ho to ke kluzišti jako svalová paměť. Nohy se mu rozběhly samy, aniž by o tom musel přemýšlet. Pak ho z toho vytrhl hlas.
+„Promiňte, zlatíčko! Nový příchozí?“
+Starší žena v saku St. Cassian’s na něj mávala od hlavního vchodu, v ruce desky, v očích rozhodnost, která ho donutila zastavit.
+„Eh, jo,“ řekl, mžoural do slunce. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když ho dohnala, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího oddělení.“ Podala mu ruku s nacvičenou vřelostí, jako by tohle dělala už stokrát.
+  [Llama-3.1-8B] Not annotated
+  Output: Postavil si tašku výše na rameni, přitahován k rinku jako svalová paměť. Jeho nohy začaly pohybovat bez toho, aby se mu to vůbec rozhodl. Pak mu hlas zlomil z koncentrace.
+“Omlouvám se, miláčku! Nový příchozí?”
+Starší žena v blazeru St. Cassian’s se na něj z hlavního vchodu usmála a zvedla ruku s klipboardem v ruce a energií bez kompromisů, která ho zastavila v jeho stopách.
+“Uh, ano,” řekl, skloniv se proti slunci. “Jsem Declan. Declan Hull.”
+“Ah, haló, Declan.” Usmála se, když se k němu dostala, trochu zasažená dechem, ale přátelsky. “Jsem Heather Burke, ředitelka přijímacího řízení.” Rozhodila si ruku s odbornou teplem, jako by to dělala stokrát předtím.
+  [Mistral-7B] Not annotated
+  Output: Vztyčil si svůj tašku výše na rameno, jako by to bylo muzeální paměť. Jeho nohy začaly se samy táhnout, aniž by se skutečně rozhodl. Potom zas zazněla hlas.
+"Nabohu, miláčku! Nový přijíždějící?"
+Starší žena v plášti z kostela svatého Kasiána ho volala z hlavního vstupu, s tabulkou v ruce a energii, která mu zastavila v patách.
+"Ach, ano," řekl, štípavě se přemýšlel nad sluncem. "Jsem Declan. Declan Hull."
+"Ach, ahoj, Declan." Usmála se, když ho dostihla, trochu zotýkavá, ale přátelská. "Jsem Heather Burke, ředitelka admise." Roztahlila mu ruku s cvičenou teplou, jako by to udělala stovkykrát dříve.
+  [Qwen2.5-7B] Not annotated
+  Output: Přesunul svůj rucsák vyšši po rameni, jako by ho tělem zasáhla pružina zpaměti. Jeho nohy začaly pohybovat, aniž by se vůbec rozhodl. Pak ho hlas náhle zpátky přivedl do současnosti.
+"Promiňte, miláčku! Nový příjezd?"
+Starší žena v plášti s logem St. Cassian’s ho zastavila z hlavní vchodu, rukou s listem v ruce a energií, která ho přiměla zastavit.
+"Jo, to jsem," řekl, zavřeštělý sluncem. "Jmenuji se Declan. Declan Hull."
+"Ah, ahoj, Declane," řekla a přistoupila k němu, trochu nadechnutá, ale přátelště. "Jmenuji se Heather Burke, ředitelka přijímacího oddílu." Vytáhla mu ruku s přátelskou jemností, jako by to dělala stovkykrát.
+  [Mistral-Medium] Average Score: 82.5
+  Output: Přehodil si tašku výš na rameno, jako by ho k ledové ploše táhla svalová paměť. Nohy se daly do pohybu, aniž by se o tom vůbec rozhodl. Pak ho z toho vytrhl hlas.
+„Promiňte, zlato! Jste tu nový?“
+Starší žena v blazeru svaté Kassiany na něj mávala od hlavního vchodu, v ruce držela klipbord a měla v sobě energii, která ho donutila zastavit se.
+„Ehm, jo,“ řekl a mžoural proti slunci. „Jsem Declan. Declan Hull.“
+„Ach, ahoj, Declane.“ Usmála se, když k němu došla, trochu zadýchaná, ale přátelská. „Jsem Heather Burke, ředitelka přijímacího řízení.“ Podala mu ruku s nacvičenou srdečností, jako by to už udělala stokrát předtím.
+  [TowerPlus-9B] Average Score: 63.0
+  Output: Tašku si posunul výše na rameno a jako by ho k bruslařskému stadionu táhla svalová paměť. Nohy se daly do pohybu, aniž by se o to musel nějak zvlášť snažit. Pak ho z toho vytrhl hlas.
+„Promiňte, miláčku! Nový?“
+Starší žena v bundě St. Cassian’s na něj mávala od hlavního vchodu, v ruce držela psací tabulku a měla takovou energii, která nezná kompromisy, takže se zastavil.
+„Ehm, jo,“ řekl a mhouřil oči proti slunci. „Jmenuji se Declan. Declan Hull.“
+„Ach, ahoj, Declane.“ Usmála se, když ho dohonila, trochu zadýchaná, ale přátelská. „Jmenuji se Heather Burkeová, jsem ředitelka přijímacího řízení.“ Podala mu ruku s citově zabarveným úsměvem, jako by tohle dělala už stokrát.
+  [TowerPlus-72B] Not annotated
+  Output: Přesunul si tašku výš na rameno a jako by ho nějaká svalová paměť táhla k hřišti. Jeho nohy se začaly pohybovat, aniž by se o to vlastně snažil. Pak ho z toho vytrhla nějaká řeč.
+„Promiň, zlatíčko! Nová přírůstek?“
+Starší žena v saka se znakem sv. Kaziána na něj mávala z hlavního vchodu, v ruce měla tabulku a energii, která nezná kompromisů, a to ho přimělo zastavit se v půli kroku.
+„Ehm, jo,“ řekl a proti slunci přivřel oči. „Jmenuju se Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když k němu došla, trochu zadýchaná, ale přátelská. „Jsem Heather Burke, ředitelka přijímacího řízení.“ Podala mu ruku s nacvičenou vřelostí, jako by to dělala už stokrát.
+  [EuroLLM-9B] Not annotated
+  Output: Přesunul si tašku výše na rameno, přitahován k kluzišti jako svalová paměť. Jeho nohy se začaly pohybovat, aniž by se o to skutečně rozhodl. Pak ho nějaký hlas vytrhl z toho.
+„Omlouvám se, miláčku! Nový příchozí?“
+Starší žena v bundě St. Cassian’s mávala na něj z hlavního vchodu, s kličkou v ruce a s energií, která ho donutila zastavit se.
+„Ehm, jo,“ řekl, přivíral oči před sluncem. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane,“ usmála se, když ho dohnala, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Podala mu ruku s procítěnou srdečností, jako by to dělala stokrát předtím.
+  [EuroLLM-22B] Not annotated
+  Output: Přesunul si tašku výš na rameno, přitahován k ledové ploše jako svalová paměť. Jeho nohy se daly do pohybu, aniž by se skutečně rozhodl. Pak ho nějaký hlas vytrhl z toho.
+„Promiňte, miláčku! Nový příchozí?“
+Starší žena v saku ze St. Cassiana na něj mávala z hlavního vchodu, držela v ruce podložku a měla nekompromisní energii, která ho zastavila v jeho stopách.
+„Ehm, jo,“ řekl, mžoural proti slunci. „Jsem Declan. Declan Hull.“
+„Ahoj, Declane.“ Usmála se, když se k němu přiblížila, trochu zadýchaná, ale přátelská. „Jsem Heather Burkeová, ředitelka přijímacího řízení.“ Natáhla k němu ruku s naučeným vřelým úsměvem, jako by to dělala stokrát předtím.
+  [NLLB] Not annotated
+  Output: Zvedl si tašku na rameno, přitáhl se k ledovci jako svalová paměť, nohy se mu začaly hýbat, aniž by se o tom rozhodl, ale pak ho hlas probudil.
+Promiň, miláčku, nový příjezd?
+Starší žena v blazeru sv. Cassiana mu mávala dolů od hlavního vchodu, s nástěnkou v ruce a nesmyslnou energií, která ho přiměla, aby se zastavil.
+"Já jsem Declan, Declan Hull".
+"Ahoj, ahoj, Declane". Usmála se, když se k němu přiblížila, trochu bez dechu, ale přátelsky. "Jsem Heather Burkeová, ředitelka přijímacích oddělení".
+
+Record: en-cs_CZ_#_literary_#_rink_rats_chapter2_#_4 (en-cs)
+Source: “Hi,” Declan said, reaching out to shake her hand. His grip was firm, but quick; polite enough, though his eyes kept drifting back toward the rink.
+She noticed the way his gaze kept pulling back to the rink and smiled knowingly.
+“You’re ready to get after it, aren’t you?” she said with a spark of encouragement. “Well, no point in delaying. I know your coaches are looking forward to meeting you. Shall we?”
+She turned, already walking toward the rink, trusting he’d follow.
+Declan didn’t say a word, just adjusted his grip on the duffel and fell in step, eyes fixed straight ahead.
+  [refA] Average Score: 69.0
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí potřásl rukou. Jeho stisk byl silný, avšak rychlý; dostatečně zdvořilý, i když jeho oči rychle sklouzly zpátky k ledu.
+Všimla si, že jeho pohled zamířil zpátky ke kluzišti a chápavě se usmála.
+„Už se na něj těšíš, že jo?“ řekla s jiskrou povzbuzení v hlase. „No, není důvod to odkládat. Vím, že se trenéři těší, až mě poznají. Můžeme?“
+Otočila se a pomalu začala kráčet směrem k ledu s vědomím, že bude následovat.
+Declan neřekl ani slovo, jenom popravil svůj úchop na tašce a začal kráčet se zrakem upřeným směrem vpřed.
+  [Yolu] Average Score: 57.5
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí potřásl rukou. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, přestože jeho pohled stále sklouzával zpět k hřišti.
+Všimla si, jak se jeho pohled neustále vracel k kluzišti, a znovu se chápavě usmála.
+„Jsi připravená se do toho pustit, že jo?“ řekla s jiskrou povzbuzení v hlase. „No, nemá smysl to odkládat. Vím, že se tví trenéři moc těší na setkání s tebou. Tak co, jdeme?“
+Otočila se a už kráčela směrem k kluzišti, doufajíc, že ji bude následovat.
+Declan neřekl ani slovo, jen upravil svůj úchop tašky a pokračoval v kroku s upřeným pohledem přímo před sebe.
+  [SalamandraTA] Average Score: 64.0
+  Output: Declan řekl: „Ahoj“ a podal jí ruku. Jeho stisk byl pevný, ale rychlý; byl dostatečně zdvořilý, i když jeho oči stále mířily zpátky k kluzišti.
+Věděla, že jeho pohled směřuje zpět na led, a s úsměvem si to uvědomila.
+‚Jste připravena do toho jít, že ano?‘ řekla s jiskrou povzbuzení. ‚No, nemá cenu to odkládat. Vím, že se na setkání s vámi těší vaši trenéři. Půjdeme?‘
+Už při chůzi směrem k kluzišti se otočila a důvěřovala mu, že půjde za ní.
+Bez jediného slova se Declan pevně chytil batohu a vykročil vpřed s očima upřenýma před sebe.
+  [CommandA-MT] Average Score: 84.5
+  Output: „Ahoj,“ řekl Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči se stále vracely k hřišti.
+Všimla si, jak se jeho pohled stále vrací k hřišti, a usmála se s pochopením.
+„Jste připravený se do toho pustit, že?“ řekla s jiskrou povzbuzení. „No, nemá smysl to odkládat. Vím, že vaši trenéři se těší, až vás poznají. Půjdeme?“
+Otočila se a už kráčela směrem k hřišti, věřila, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil úchop tašky a šel za ní, oči upřené vpřed.
+  [CUNI-SFT] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí podal ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči stále putovaly zpátky k ledové ploše.
+Všimla si, jak se jeho pohled stále vrací na ledovou plochu, a s úsměvem vědoucně přikývla.
+„Jsi připravená to zkusit, že?“ řekla s jiskrou povzbuzení. „Není třeba se zdržovat. Vím, že se na tebe tví trenéři těší. Tak pojď.“
+Zatočila se a už šla směrem k ledové ploše, věřila, že ji bude následovat.
+Declan neřekl ani slovo, jen si přitáhl ručník a začal pochodovat, oči upřené přímo před sebe.
+  [CUNI-DocTransformer] Not annotated
+  Output: „Ahoj,“ pozdravil Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; docela zdvořilý, i když jeho oči se neustále vracely ke kluzišti.
+Všimla si, jak se jeho pohled neustále vrací ke kluzišti, a vědoucně se usmála.
+„Jsi připravený se do toho pustit, co?“ řekla s jiskrou povzbuzení. „No, nemá cenu to zdržovat. Vím, že se na vás trenéři těší. Půjdeme?“
+Otočila se, už šla ke kluzišti a věřila, že půjde za ní.
+Declan neřekl ani slovo, jen upravil stisk na brašně a srovnal krok s očima upřenýma přímo před sebe.
+  [CUNI-MH-v2] Average Score: 82.5
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí podal ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči stále unikaly zpět k ledové ploše.
+Všimla si, jak se jeho pohled stále vrací k ledové ploše, a s úsměvem se usmála.
+„Jste připravena se do toho pustit, že?“ řekla s povzbuzujícím zábleskem v očích. „No, není třeba zdržovat. Vím, že vaši trenéři se těší na setkání s vámi. Tak co?“
+Otočila se a už šla směrem k ledové ploše, s důvěrou, že ji Declan bude následovat.
+Declan neřekl ani slovo, jen upravil stisk na tašce a připojil se k ní, oči upřené přímo před sebe.
+  [Algharb] Average Score: 46.0
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby si s ní potřásl rukou. Jeho stisnutí bylo pevné, ale rychlé; dost zdvořilé, i když se mu oči neustále vracely zpět k tomu kluzišti.
+Všimla si, jak se jeho pohled neustále vrací k tomu kluzišti, a věděla, že se usměje.
+„Už se nemůžete dočkat, že?“ řekla s jiskrou povzbuzení. „No, není třeba to odkládat. Vím, že se vaši trenérů těší na setkání s vámi. Půjdeme?“
+Otočila se a už šla k kluzišti, věříc, že ji bude následovat.
+Declan neřekl ani slovo, jen upravil svůj úchyt na sportovní tašti a začal kráčet v kroku, oči upřené přímo před sebe.
+  [GemTrans] Average Score: 54.5
+  Output: „Dobrý den,“ řekl Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý – dostatečně zdvořilý, i když jeho pohled neustále putoval zpět k ledové ploše.
+Všimla si, jak jeho pohled neustále mířil k ledové ploše, a s úsměvem to pochopila.
+„Už se nemůžete dočkat, až začnete, že?“ řekla s povzbuzením. „No, nemá smysl to odkládat. Vím, že se vaši trenéři těší, až se s vámi seznámí. Pojďme?“
+Otočila se a už šla směrem k ledové ploše, s jistotou, že ho bude následovat.
+Declan neřekl ani slovo, jen si upravil úchop tašky a začal jít, s pohledem upřeným přímo před sebe.
+  [IRB-MT] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl ruku k podání. Stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když se mu oči neustále vracely k lední ploše.
+Všimla si, jak se jeho pohled neustále vrací k lední ploše a s porozuměním se usmála.
+„Jsi připravený na to, viď?“ řekla povzbudivě. „No, nemá smysl to odkládat. Vím, že se tvoji trenéři těší na setkání s tebou. Pojďme?“
+Otočila se a už se vydala směrem k lední ploše, věříc, že ji bude následovat.
+Declan nic neřekl, jen upravil úchop u vaku a šel vedle ní, s očima upřenýma rovně před sebe.
+  [Laniqo] Average Score: 54.0
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí podal ruku. Jeho stisk byl pevný, ale rychlý; byl zdvořilý, ačkoliv jeho pohled stále směřoval zpátky k ledové ploše.
+Uvědomila si, jak se jeho pohled ustavičně vrací zpět na kluziště, a pousmála se s pochopením.
+„Jsi na to připravená, viď?“ řekla a dodala povzbuzujícím tónem. „Takže není třeba odkládat. Vím, že se na tebe tví trenéři těší. Tak jdeme?“
+Zatočila se a už se vydala směrem k ledové ploše. Doufala, že ji bude následovat.
+„Declan nevypustil ani slovo, pouze si upravil držení batohu a kráčel dál, stále se soustředěně dívajíc dopředu.
+  [IR-MultiagentMT] Not annotated
+  Output: Všimla si, jak se jeho pohled stále vrací k hřišti, a usmála se s porozuměním. 
+ „Chceš do toho skočit, že?“ řekla s jiskrou povzbuzení. „Tak pojďme, není důvod zdržovat se. Vím, že tvoji trenéři se tě těší na setkání. Pojďme?“ 
+Otočila se a již kráčela směrem k hřišti, věříc, že ji bude následovat. 
+Declan neřekl jediné slovo, jen si upravil úchop na tašce a šel v její stopě, oči upřené přímo před sebe. 
+„Tak,“ humm, prolomila ticho, „prošvihl jsi první dva dny hodin. Mám tady všechny tvoje úkoly a domácí práce.“ 
+  [Wenyiil] Average Score: 57.5
+  Output: „Ahoj,“ řekl Declan a natáhl ruku, aby si s ní potřásl. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když se jeho oči neustále vracely zpátky k ledové ploše.
+Všimla si, jak se jeho pohled neustále vracel na hřiště, a vědoucně se usmála.
+„Jsi připravený se do toho pustit, že jo?“ řekla s jiskrou povzbuzení. „No, není důvod to odkládat. Vím, že se tvoji trenéři těší, až tě poznají. Půjdeme?“
+Otočila se a už šla k ledě, věříc, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil úchop na tašce a šel v kroku, oči upřené přímo před sebe.
+  [ctpc_nlp] Not annotated
+  Output:  „Hej,“ řekl Declan a vycouknul, aby jí poklekl ruku.  Jeho chápání bylo pevné, ale rychlé; byl polohovědný, ale jeho oči se stále vracely na ledovou plochu.
+ Pozorovala, jak se jeho pohled neustále vracel zpět na ledovou plochu a usmívala se znalky.
+ „Nesmarte se, ne? “ řekla s jiskrou encourázní.  “No, není důvod zpožďovat.  Vím, že vaše trenéři se na setkání s vámi těší.  Ano, prosím.
+ Obrátila se a vydala se již směrem k ledovému hřišti, věřila, že ji sleduje.
+ Declan nic neřekl, jen se ještě ještě víc sevřel na rukojeť a zapadl do rytmu, oči pevně směřené dopřed.
+  [Shy] Average Score: 93.5
+  Output: „Ahoj,“ řekl Declan a natáhl ruku, aby si s ní potřásl. Jeho stisk byl pevný, ale rychlý – dostatečně zdvořilý, i když jeho oči neustále bloudily směrem ke kluzišti.  
+Všimla si toho a chápavě se usmála.  
+„Už se nemůžeš dočkat, až se do toho pustíš, že?“ řekla s povzbudivou jiskrou v hlase. „No, nemá smysl to odkládat. Vím, že se tvoji trenéři těší, až tě poznají. Půjdeme?“  
+Otočila se a už kráčela směrem ke kluzišti, přesvědčená, že ji bude následovat.  
+Declan neřekl ani slovo, jen si upravil popruh své sportovní tašky a vydal se za ní, oči upřené přímo před sebe.
+  [SRPOL] Average Score: 64.5
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí podal ruku. Jeho sevření bylo pevné, ale rychlé; dostatečně zdvořilé, i když jeho oči stále uhýbaly zpět k ledové ploše. 
+Zpozorovala, jak se jeho pohled stále vrací k ledové ploše, a s úsměvem se usmála. 
+„Jste připravena jít do toho, že ano?“ řekla s povzbuzujícím zábleskem v očích. „Není třeba otálet. Vím, že se na vás vaši trenéři těší. Tak pojďme.“ 
+Otočila se a už šla směrem k ledové ploše, s důvěrou, že ji Declan bude následovat. 
+Declan neřekl ani slovo, jen upravil sevření na tašce a přidal se k ní, s pohledem upřeným přímo před sebe.
+  [TranssionMT] Not annotated
+  Output: "Zdravím tě", řekl Declan, když se rozhodl, že jí otřese ruku.Jeho přilnavost byla pevná, ale rychlá, dostatečně zdvořilá, ačkoli jeho oči pokračovaly zpět směrem k vrcholu.
+Všimla si, jak se jeho pohled neustále táhne zpátky na rink a vědomě se usmála.
+"Jste připraveni se za tím dostat, že? "Řekla s jiskrou povzbuzení."Nemá smysl odkládat.Vím, že se na vás trenéři těší.Máme? "
+Otočila se, už chodila směrem k rinku a věřila, že bude následovat.
+Declan neřekl ani slovo, jen upravil přilnavost na duffel a spadl v kroku, oči upevněné přímo dopředu.
+  [TranssionTranslate] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl ruku, aby jí potřásl.Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči neustále bloudily zpět ke kluzišti.
+Všimla si, jak se jeho pohled stále vrací ke kluzišti, a vědoucně se usmála.
+„Jsi připravený se do toho pustit, že?“řekla s jiskrou povzbuzení.„No, nemá smysl otálet.“Vím, že se na setkání s vámi těší vaši trenéři.„Půjdeme?“
+Otočila se a už kráčela ke kluzišti v naději, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil sevření brašny a šel s ní do kroku, s očima upřenýma před sebe.
+  [UvA-MT] Average Score: 70.0
+  Output: “Ahoj,” řekl Declan a natáhl ruku, aby jí podal ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když se jeho oči neustále vracely zpět k ledové ploše.
+Všimla si, jak se jeho pohled neustále vracel k ledové ploše, a úsměvně kývla hlavou.
+“Jsi připravený se do toho pustit, že?” řekla s jiskrou povzbuzení. “No, nemá smysl to odkládat. Vím, že tvoji trenéři se tě nemůžou dočkat, až tě poznají. Pojďme?”
+Otočila se a už se vydala směrem k ledové ploše, věříc, že ji bude následovat.
+Declan neřekl ani slovo, jen upravil úchop batohu a přizpůsobil se jejímu tempu, s očima upřenýma rovně před sebe.
+  [AyaExpanse-32B] Not annotated
+  Output: „Ahoj,“ řekl Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči neustále sklouzávaly zpět k ledové ploše.
+Ona si všimla, jak se jeho pohled stále vrací k ledové ploše, a s úsměvem plným porozumění přikývla.
+„Jsi připravený se do toho pustit, že ano?“ zeptala se s jiskrou povzbuzení v hlase. „Takže žádné odkládání. Vím, že se tvoji trenéři těší, až tě poznají. Půjdeme?“
+Ona se otočila a už kráčela směrem k ledové ploše, důvěřivě očekávala, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil popruhy tašky přes rameno a vykročil za ní, oči upřené přímo před sebe.
+  [AyaExpanse-8B] Not annotated
+  Output: "Ahoj," řekl Declan a natáhl ruku, aby ji stiskl. Jeho stisk byl pevný, ale rychlý; zdvořilý, i když jeho oči se stále vracely k ledové ploše.
+Ona si všimla, jak se jeho pohled neustále vrací k ledové ploše, a s povědomým úsměvem přikývla.
+"Jsi připravený se do toho pustit, že?" řekla s jiskrou povzbuzení v hlase. "No, není důvod zdržovat. Vím, že trenéři se těší, až tě poznají. Co říkáš?"
+Otočila se a začala jít směrem k ledové ploše, s důvěrou, že ho bude následovat.
+Declan neřekl ani slovo, jen pevněji stiskl tašku a vydal se za ní, oči upřené přímo před sebe.
+  [Claude-4] Average Score: 92.5
+  Output: „Ahoj," řekl Declan a natáhl ruku k podání. Stisk měl pevný, ale rychlý; dost zdvořilý, i když se mu oči stále vracely k ledové ploše.
+Všimla si, jak se jeho pohled neustále stáčí zpět k ledové ploše, a vědomě se usmála.
+„Už se nemůžeš dočkat, že?" řekla s jiskrou povzbuzení. „No, nemá smysl to odkládat. Vím, že se na tebe trenéři těší. Půjdeme?"
+Otočila se a už kráčela směrem k ledové ploše, důvěřujíc, že ji bude následovat.
+Declan neřekl ani slovo, jen si přehodil tašku a vydal se za ní, oči upřené přímo před sebe.
+  [CommandA] Average Score: 94.0
+  Output: „Ahoj,“ řekl Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči stále sklouzávaly zpět k ledové ploše.
+Všimla si, jak se jeho pohled stále vrací k ledové ploše, a úsměv jí zahrál na rtech.
+„Už se nemůžete dočkat, že?“ řekla povzbudivě. „No, nemá smysl to odkládat. Vím, že vaši trenéři se těší, až vás poznají. Půjdeme?“
+Otočila se a už kráčela směrem k ledové ploše, přesvědčená, že ji bude následovat.
+Declan nepromluvil ani slovo, jen si upravil úchop tašky a připojil se k ní, oči upřené přímo před sebe.
+  [DeepSeek-V3] Average Score: 88.5
+  Output: „Ahoj,“ pozdravil Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; zdvořilý, i když jeho pohled se neustále vracel k ledové ploše.  
+Všimla si, jak se jeho oči znovu a znovu táhnou k ledu, a vědoucně se usmála.  
+„Už se nemůžeš dočkat, co?“ řekla s povzbudivou jiskrou v hlase. „Ale nemá cenu otálet. Vím, že tvoji trenéři se na tebe těší. Půjdeme?“  
+Otočila se a už kráčela k ledu, věříc, že ji bude následovat.  
+Declan neřekl ani slovo, jen upravil úchop tašky a přidal se k ní, s očima upřenýma před sebe.
+  [Gemini-2.5-Pro] Average Score: 94.5
+  Output: „Dobrý den,“ řekl Declan a potřásl jí rukou. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči neustále těkaly zpět k zimnímu stadionu.
+Všimla si, jak se jeho pohled stále vrací k zimáku, a chápavě se usmála.
+„Už se nemůžete dočkat, až se do toho pustíte, co?“ řekla s jiskrou povzbuzení. „No, nemá smysl to zdržovat. Vím, že se vaši trenéři těší, až se s vámi setkají. Půjdeme?“
+Otočila se a už kráčela směrem k zimnímu stadionu, přesvědčená, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil popruh tašky a vykročil s ní, s očima upřenýma přímo před sebe.
+  [Gemma-3-12B] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl ruku k podání. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když se mu oči neustále vracely k dráze.
+Všimla si, jak se jeho pohled neustále vrací k dráze, a s porozuměním se usmála.
+„Jsi připravený do toho jít, co?“ řekla povzbudivě. „No, nemá smysl to odkládat. Vím, že se tvoji trenéři tě těší na setkání. Pojďme?“
+Otočila se a už se vydala směrem k dráze, věříc, že ji bude následovat.
+Declan nic neřekl, jen upravil úchop u tašky a přidal se k ní, s očima upřenýma rovně před sebe.
+  [Gemma-3-27B] Average Score: 65.5
+  Output: “Ahoj,” řekl Declan a podal jí ruku. Stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči se neustále vracely k ledové ploše.
+Všimla si, jak se jeho pohled stále vrací k rinku, a úsměvně se na něj podívala.
+“Už se nemůžeš dočkat, že se do toho pustíš, že?” řekla s jiskrou povzbuzení. “No, nemá smysl to odkládat. Vím, že se na tebe tví trenéři těší. Pojďme?”
+Otočila se a už kráčela směrem k rinku, s důvěrou, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil úchop tašky a zařadil se do kroku, s pohledem upřeným přímo před sebe.
+  [Llama-4-Maverick] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí stiskl ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, ačkoli jeho oči se stále vracely k ledové ploše.
+Všimla si, jak se jeho pohled neustále vrací k ploše, a znalecky se usmála.
+„Už jste netrpělivý, že?“ řekla s jiskrou povzbuzení. „No, nemá smysl to odkládat. Vím, že se vaši trenéři těší na to, až vás poznají. Jdeme?“
+Otočila se a už kráčela směrem k ploše, v důvěře, že ji bude následovat.
+Declan neřekl ani slovo, jen upravil úchop své tašky a přidal se k ní, s očima upřenýma přímo před sebe.
+  [ONLINE-B] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí potřásl rukou. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči se stále vracely ke kluzišti. Všimla si, jak se jeho pohled stále vracel ke kluzišti, a vědoucně se usmála. „Jsi připravená do toho jít, že?“ řekla s jiskrou povzbuzení. „No, nemá smysl otálet. Vím, že se na setkání s tebou těší tvoji trenéři. Půjdeme?“ Otočila se a už šla ke kluzišti v naději, že ji bude následovat. Declan neřekl ani slovo, jen upravil sevření brašny a šel s ní s očima upřenýma přímo před sebe.
+  [ONLINE-G] Not annotated
+  Output: "Ahoj," řekl Declan a natáhl ruku, aby jí potřásl rukou. Jeho sevření bylo pevné, ale rychlé; dost zdvořilý, i když jeho oči stále driftovaly zpět k kluzišti.
+Všimla si, jak se jeho pohled stále stahoval zpět na kluziště, a vědomě se usmála.
+"Jste připraveni jít po tom, že?""řekla s jiskrou povzbuzení. "No, nemá smysl zdržovat. Vím, že se na vás trenéři těší. Můžeme?”
+Otočila se, už kráčela ke kluzišti a věřila, že ho bude následovat.
+Declan neřekl ani slovo, jen upravil sevření duffelu a spadl do kroku, oči upřené přímo před sebe.
+  [ONLINE-W] Not annotated
+  Output: "Ahoj," řekl Declan a natáhl k ní ruku, aby si s ní potřásl. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, ačkoli jeho oči neustále těkaly zpátky k kluzišti.
+Všimla si, jak se jeho pohled stále vrací k kluzišti, a vědoucně se usmála.
+"Jsi připravený se do toho pustit, viď?" řekla s jiskrou povzbuzení. "No, nemá smysl otálet. Vím, že se na tebe trenéři těší. Můžeme?"
+Otočila se a už kráčela k kluzišti, věřila, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil držení tašky a s očima upřenýma přímo před sebe se zařadil do kroku.
+  [Qwen3-235B] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl ruku, aby si s ní potřásl. Stisk měl pevný, ale rychlý; zdvořilý, i když jeho oči neustále bloudily zpět k ledové ploše.  
+Všimla si, jak jeho pohled neustále klouzal ke kluzišti, a vědoucně se usmála.  
+„Už se nemůžeš dočkat, co?“ povzbudila ho s úsměvem. „Tak žádné odkládání. Vím, že tvoji trenéři se těší, až tě poznají. Půjdeme?“  
+Otočila se a už kráčela k ledu, přesvědčená, že ji bude následovat.  
+Declan neřekl ani slovo, jen si přehodil tašku přes rameno a šel za ní, oči upřené rovně před sebe.
+  [CommandR7B] Not annotated
+  Output: „Ahoj,“ řekl Declan, natáhl se, aby jí podal ruku. His grip was firm, but quick; polite enough, though his eyes kept drifting back toward the rink.
+Poznala, jak jeho pohled neustále vracel k ledové ploše, a usmála se pochopivě.
+„Jsi připravený na to, aby to rozjel, ne?“ řekla s nádechem povzbuzení. „Nechceme zbytečně otálet. Víme, že tvoji trenéři se těší, až tě poznají. Pojďme?“
+Otočila se a už šla k ledové ploše, s důvěrou, že ji bude následovat.
+Declan neřekl ani slovo, jen si přehodil tašku a za ní se dal do kroku, oči fixovány rovně vpřed.
+  [GPT-4.1] Average Score: 78.5
+  Output: „Dobrý den,“ řekl Declan a stiskl jí ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči pořád utíkaly ke kluzišti.
+Všimla si toho a usmála se chápavě.
+„Už se nemůžete dočkat, co?“ řekla povzbudivě. „Tak to nebudeme zdržovat. Vím, že se na vás trenéři těší. Půjdeme?“
+Otočila se a už vykročila ke kluzišti, jistá, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil tašku a zařadil se vedle ní, pohled upřený před sebe.
+  [Llama-3.1-8B] Not annotated
+  Output: "Ahá," řekl Declan, vystupující k podání ruky. Jeho stisk byl pevný, ale rychlý; dost slušný, i když jeho oči neustále přejížděly zpět k lednímu dnu.
+Poznamenala, jak jeho pohled neustále táhl zpět k lednímu dnu, a usmála se s vědomím.
+"Jste připraveni se do toho pustit, ne?" řekla s jiskrou povzbuzení. "Není žádný smysl v odkladu. Vědomy, že vaše trenéři se těší na setkání s vámi. Nechť tedy půjdeme?"
+Otočila se, už se vzdaluje k lednímu dnu, spoléhala na to, že se on následuje.
+Declan nic neřekl, jen upravil svůj stisk na tašku a vstoupil do kroku, oči upřené rovnou vpřed.
+  [Mistral-7B] Not annotated
+  Output: Aho, řekl Declan, až se pokoušel jí ruku dát. Jeho držení bylo pevné, ale rychlé; dostatečně formální, ale jeho oči se stále vracely k ledovci.
+Ona si všimla, jak se jeho pohled vracel k ledovci a usmál si poznáním.
+"Nemáš ráda odložit se, není to pravda?" řekla s plamenem vzruchu. "Proč bychom se pak zdráhali. Vědí, že vaši trenéři se na vás čekají. Budeme?"
+Otočila se už se šla k ledovci, domnívající se, že ho následuje.
+Declan neřekl slovo, pouze upravil držení duffelu a začal se s ní shodovat, oči mu byly upřené rovnou vpřed.
+  [Qwen2.5-7B] Not annotated
+  Output: "Zdravím vás," řekl Declan, vystupujíc s rukou k dotisknutí ruky. Jeho dráždící se stisk byl pevný, ale rychlý; byl zdvořilý, i když jeho oči se stále vracely k látce.
+Poznala, jak se jeho pohled opakováně vrací k lodičkám, a vědomě na to usmála se.
+"Jsi připravena za to bojovat, ne?" řekla s nádechem podporu. "No, nemáme důvod čekat. Vím, že tví trenéři na tvůj příchod čekají s nadějí. Chcete se jít podívat?"
+Otočila se už chodící k hřišti, doufala, že ho to následovat bude.
+Declan neřekl nic, jen si pevněji sevřel tašku a začal se chodit v jeho kroku, oči upřené před sebe.
+  [Mistral-Medium] Average Score: 97.5
+  Output: „Ahoj,“ řekl Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; zdvořilý, i když jeho pohled se neustále vracel k ledové ploše.
+Zaznamenala, jak se jeho oči stále upírají k ledové ploše, a usmála se s porozuměním.
+„Už se nemůžeš dočkat, že?“ řekla s náznakem povzbuzení. „No, nemá smysl to odkládat. Vím, že se na tebe tvoji trenéři těší. Půjdeme?“
+Otočila se a vydala se směrem k ledové ploše, věříc, že ji bude následovat.
+Declan neřekl ani slovo, jen si upravil držení tašky a zařadil se vedle ní, pohled upřený přímo před sebe.
+  [TowerPlus-9B] Average Score: 69.5
+  Output: „Ahoj,“ řekl Declan a natáhl ruku, aby jí potřásl. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči se stále vracely k ledové ploše.
+Ona si všimla, jak se jeho pohled stále vrací k ledu, a usmála se s porozuměním.
+„Jsi připravený do toho jít, že jo?“ řekla s jiskrou povzbuzení. „No tak, neotálejme. Vím, že tví trenéři se na tebe těší. Pojďme?“
+Otočila se a už kráčela směrem k ledu, důvěřujíc, že ji Declan následuje.
+Declan neřekl ani slovo, jen upravil svůj úchop tašky a šel vedle ní, oči upřené přímo před sebe.
+  [TowerPlus-72B] Not annotated
+  Output: „Ahoj,“ řekl Declan a podal jí ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči se stále vracely k hřišti.
+Všimla si, jak se jeho pohled stále vrací k kluzišti, a vědoucně se usmála.
+„Jste připravený na to začít, že?“ řekla s povzbudivým tónem v hlase. „No, nemá smysl to odkládat. Vím, že vaši trenéři se na vás těší. Pojďte?“
+Otočila se a už kráčela směrem k hřišti, věříc, že půjde za ní.
+Declan neřekl ani slovo, jen upravil sevření tašky a dal se do kroku, oči upřené před sebe.
+  [EuroLLM-9B] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl se, aby jí podal ruku. Jeho stisk byl pevný, ale rychlý; dostatečně zdvořilý, i když jeho oči stále uhýbaly zpátky k ledové ploše.
+Všimla si, jak jeho pohled stále uhýbá zpátky k ledové ploše, a s úsměvem plným znalosti řekla: „Jsi připraven dát se do toho, že?“ „No, není třeba otálet. Vím, že se na tebe tví trenéři těší. Tak co?“
+Zamířila k ledové ploše, už se vydala na cestu, a věřila, že Declan půjde za ní.
+Declan neřekl ani slovo, jen upravil stisk na tašce a připojil se k ní, oči upřené přímo před sebe.
+  [EuroLLM-22B] Not annotated
+  Output: „Ahoj,“ řekl Declan a natáhl ruku k podání. Jeho stisk byl pevný, ale rychlý, dostatečně zdvořilý, i když jeho pohled stále uhýbal zpět k kluzišti.
+Všimla si, jak se jeho pohled stále vrací zpět k kluzišti, a vědomě se usmála.
+„Jsi připraven se do toho pustit, že?“ zeptala se s jiskrou povzbuzení. „Není důvod otálet. Vím, že se na tebe tví trenéři těší. Tak co? Máme?“
+Otočila se a už kráčela směrem k kluzišti, věřila, že ji bude následovat.
+Declan neřekl ani slovo, jen upravil stisk na kufříku a udělal krok, oči měl upřené přímo před sebe.
+  [NLLB] Not annotated
+  Output: "Zdravím se", řekl Declan a natáhl se, aby jí potřásl rukou.
+Všimla si, jak se jeho pohled stále táhl zpět na kluziště a vědomě se usmála.
+"Jsi připravený se do toho pustit, že ano?" řekla s jiskrou povzbuzení. "No, nemá smysl se zdržovat. Vím, že se tvoji trenéři těší na setkání s tebou.
+Otočila se, už kráčela směrem k křižovatce a věřila, že ji bude následovat.
+Declan neřekl ani slovo, jen upravil svůj uchop na tašce a spadl v kroku, oči upřené přímo dopředu.
+
