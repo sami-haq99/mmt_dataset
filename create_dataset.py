@@ -21,6 +21,6 @@ if __name__ == "__main__":
     with open(CSV_FILE, "r", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            queries.append(row["mt"])
+            queries.append(row["ref"])
 
     create_dataset(queries[:10])  # Create dataset for the first 100 queries
