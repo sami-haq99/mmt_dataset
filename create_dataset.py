@@ -2,7 +2,7 @@ import csv
 import json
 from retrieve import retrieve
 
-def create_dataset(text_queries, output_file="retrieval_dataset.json"):
+def create_dataset(text_queries, output_file="retrieval_dataset_de.json"):
     dataset = []
     for text in text_queries:
         images = retrieve(text, top_k=5)
@@ -21,6 +21,6 @@ if __name__ == "__main__":
     with open(CSV_FILE, "r", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            queries.append(row["src"])
+            queries.append(row["mt"])
 
     create_dataset(queries[:10])  # Create dataset for the first 100 queries
