@@ -29,7 +29,11 @@ def retrieve(source_text, target_text = None,  top_k=TOP_K):
             joint_emb = (q_emb + q_emb_tgt) / 2.0
             faiss.normalize_L2(joint_emb)
             distances, indices = index.search(joint_emb, top_k)
-            results = [image_paths[i] for i in indices[0] if i != -1]
+            #add distances to the results
+            results = []
+            for i, idx in enumerate(indices[0]):
+                if idx != -1:
+                    results.append({"image": image_paths[idx], "distance": distances[0][i]})
             return results
             
         else:
@@ -41,5 +45,8 @@ def retrieve(source_text, target_text = None,  top_k=TOP_K):
             faiss.normalize_L2(q_emb)
 
             distances, indices = index.search(q_emb, top_k)
-            results = [image_paths[i] for i in indices[0] if i != -1]
+            results = []
+            for i, idx in enumerate(indices[0]):
+                if idx != -1:
+                    results.append({"image": image_paths[idx], "distance": distances[0][i]})
             return results
