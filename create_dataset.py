@@ -7,13 +7,14 @@ def create_dataset(text_queries, tgt_queries= None, output_file="retrieval_datas
     for i, text in enumerate(text_queries):
         if tgt_queries is not None:
             images = retrieve(text, tgt_queries[i], top_k=5)
-            dataset.append({"text": text, "images": [img['image'] for img in images], "distances": [img['distance'] for img in images]})
+            dataset.append({"text": text, "images": [img['image'] for img in images], "distances": [img['distance'].item() for img in images]})
         else:
             images = retrieve(text, top_k=5)
-            dataset.append({"text": text, "images": [img['image'] for img in images], "distances": [img['distance'] for img in images]})
+            dataset.append({"text": text, "images": [img['image'] for img in images], "distances": [img['distance'].item() for img in images]})
 
     with open(output_file, "w") as f:
-        json.dump(dataset, f, indent=2)
+        json.dump(dataset, f, indent=2, default=str) #TypeError: Object of type float32 is not JSON serializable
+
     print("Dataset created:", output_file)
 
 if __name__ == "__main__":
