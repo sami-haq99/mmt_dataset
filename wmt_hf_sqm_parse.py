@@ -1,12 +1,6 @@
 
 
 #Load the dataset from .csv file
-#Here is the examples:
-'''
-lp,src,mt,ref,score,system,annotators,domain,year
-en-de,You can come back any time as our chat service window is open 24/7,"Sie können jederzeit wiederkommen, da unser Chat-Service-Fenster geöffnet ist 24/7","Sie können jederzeit wiederkommen, da unser Chat-Service-Fenster täglich rund um die Uhr geöffnet ist",100.0,PROMT,1,conversation,2022 
-'''
-
 #Print all the different language pairs in the dataset
 #Print all domains in the dataset
 #read the .csv file and print the number of rows in the dataset

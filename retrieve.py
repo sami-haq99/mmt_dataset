@@ -20,15 +20,26 @@ model = AutoModel.from_pretrained(
 model.eval()
 model.task = "retrieval"
 
-def retrieve(query_text, top_k=TOP_K):
+def retrieve(source_text, target_text = None,  top_k=TOP_K):
     with torch.no_grad():
-        q_emb = model.encode_text([query_text], task="retrieval", return_numpy=True)
-       
-        if not isinstance(q_emb, np.ndarray):
-            # Manual fallback if return_numpy=True isn't supported in your version
-            q_emb = q_emb.detach().cpu().numpy()
-        faiss.normalize_L2(q_emb)
+        if target_text is not None:
+            q_emb_tgt = model.encode_text([target_text], task="retrieval", return_numpy=True)
+            q_emb = model.encode_text([source_text], task="retrieval", return_numpy=True)
+            
+            joint_emb = (q_emb + q_emb_tgt) / 2.0
+            faiss.normalize_L2(joint_emb)
+            distances, indices = index.search(joint_emb, top_k)
+            results = [image_paths[i] for i in indices[0] if i != -1]
+            return results
+            
+        else:
+            q_emb = model.encode_text([source_text], task="retrieval", return_numpy=True)
+        
+            if not isinstance(q_emb, np.ndarray):
+                # Manual fallback if return_numpy=True isn't supported in your version
+                q_emb = q_emb.detach().cpu().numpy()
+            faiss.normalize_L2(q_emb)
 
-    distances, indices = index.search(q_emb, top_k)
-    results = [image_paths[i] for i in indices[0] if i != -1]
-    return results
+            distances, indices = index.search(q_emb, top_k)
+            results = [image_paths[i] for i in indices[0] if i != -1]
+            return results
