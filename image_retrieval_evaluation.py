@@ -61,13 +61,13 @@ if __name__ == "__main__":
             image_names.append(line.strip())
 
 
-    src_only_dataset = featch_images(src_queries[:10])
+    src_only_dataset = featch_images(src_queries)
     joint_dataset = {}
     for tgt in tgt_langs:
-        joint_dataset[tgt] = featch_images(src_queries[:10], tgt_queries[tgt][:10])
+        joint_dataset[tgt] = featch_images(src_queries, tgt_queries[tgt])
     tgt_only_dataset = {}
     for tgt in tgt_langs:
-        tgt_only_dataset[tgt] = featch_images(tgt_queries[tgt][:10])
+        tgt_only_dataset[tgt] = featch_images(tgt_queries[tgt])
     
     #dump the datasets in json files
     with open(f"{input_dir}src_only_dataset.json", "w") as f:
@@ -79,7 +79,7 @@ if __name__ == "__main__":
             json.dump(tgt_only_dataset[tgt], f, indent=2)
             
     print("Calculating accuracy for each dataset:")
-    print("SRC Only Accuracy:", calculate_accuracy(src_only_dataset, image_names[:10]))
+    print("SRC Only Accuracy:", calculate_accuracy(src_only_dataset, image_names))
     for tgt in tgt_langs:
-        print(f"Joint {tgt} Accuracy:", calculate_accuracy(joint_dataset[tgt], image_names[:10]))
-        print(f"TGT Only {tgt} Accuracy:", calculate_accuracy(tgt_only_dataset[tgt], image_names[:10]))
+        print(f"Joint {tgt} Accuracy:", calculate_accuracy(joint_dataset[tgt], image_names))
+        print(f"TGT Only {tgt} Accuracy:", calculate_accuracy(tgt_only_dataset[tgt], image_names))
