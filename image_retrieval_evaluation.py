@@ -36,7 +36,7 @@ if __name__ == "__main__":
     # Example text queries
     #reading csv file ans extracting the 'src' column as text queries and save it in a list (csv headers: lp,src,mt,ref,score,system,annotators,domain,year)
     
-    input_dir = "/eval_data/"
+    input_dir = "./eval_data/"
     src_lang = "en"
     tgt_langs = ["de", "fr"]
     image_file = f"{input_dir}image.txt"
