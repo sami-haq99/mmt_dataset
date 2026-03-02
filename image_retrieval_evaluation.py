@@ -39,7 +39,7 @@ if __name__ == "__main__":
     input_dir = "./eval_data/"
     src_lang = "en"
     tgt_langs = ["de", "fr"]
-    image_file = f"{input_dir}image.txt"
+    image_file = f"{input_dir}images.txt"
     
     src_queries = []
     tgt_queries = {}
