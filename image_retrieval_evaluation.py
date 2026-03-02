@@ -36,20 +36,21 @@ if __name__ == "__main__":
     # Example text queries
     #reading csv file ans extracting the 'src' column as text queries and save it in a list (csv headers: lp,src,mt,ref,score,system,annotators,domain,year)
     
+    input_dir = "/eval_data/"
     src_lang = ["en"]
     tgt_langs = ["de", "fr"]
-    image_file = "image.txt"
+    image_file = f"{input_dir}image.txt"
     
     src_queries = []
     tgt_queries = {}
     image_names = []
-    src_file = f"src.{src_lang}"
+    src_file = f"{input_dir}src.{src_lang}"
     with open(src_file, "r", encoding="utf-8") as f:
         for line in f:
             src_queries.append(line.strip())
     
     for tgt in tgt_langs:
-       tgt_file = f"ref.{tgt}"
+       tgt_file = f"{input_dir}ref.{tgt}"
        tgt_queries[tgt] = []
        with open(tgt_file, "r", encoding="utf-8") as f:
            for line in f:
@@ -60,25 +61,25 @@ if __name__ == "__main__":
             image_names.append(line.strip())
 
 
-    src_only_dataset = featch_images(src_queries)
+    src_only_dataset = featch_images(src_queries[:10])
     joint_dataset = {}
     for tgt in tgt_langs:
-        joint_dataset[tgt] = featch_images(src_queries, tgt_queries[tgt])
+        joint_dataset[tgt] = featch_images(src_queries[:10], tgt_queries[tgt][:10])
     tgt_only_dataset = {}
     for tgt in tgt_langs:
-        tgt_only_dataset[tgt] = featch_images(tgt_queries[tgt])
+        tgt_only_dataset[tgt] = featch_images(tgt_queries[tgt][:10])
     
     #dump the datasets in json files
-    with open("src_only_dataset.json", "w") as f:
+    with open(f"{input_dir}src_only_dataset.json", "w") as f:
         json.dump(src_only_dataset, f, indent=2)
     for tgt in tgt_langs:
-        with open(f"joint_dataset_{tgt}.json", "w") as f:
+        with open(f"{input_dir}joint_dataset_{tgt}.json", "w") as f:
             json.dump(joint_dataset[tgt], f, indent=2)
-        with open(f"tgt_only_dataset_{tgt}.json", "w") as f:
+        with open(f"{input_dir}tgt_only_dataset_{tgt}.json", "w") as f:
             json.dump(tgt_only_dataset[tgt], f, indent=2)
             
     print("Calculating accuracy for each dataset:")
-    print("SRC Only Accuracy:", calculate_accuracy(src_only_dataset, image_names))
+    print("SRC Only Accuracy:", calculate_accuracy(src_only_dataset, image_names[:10]))
     for tgt in tgt_langs:
-        print(f"Joint {tgt} Accuracy:", calculate_accuracy(joint_dataset[tgt], image_names))
-        print(f"TGT Only {tgt} Accuracy:", calculate_accuracy(tgt_only_dataset[tgt], image_names))
+        print(f"Joint {tgt} Accuracy:", calculate_accuracy(joint_dataset[tgt], image_names[:10]))
+        print(f"TGT Only {tgt} Accuracy:", calculate_accuracy(tgt_only_dataset[tgt], image_names[:10]))
