@@ -7,10 +7,10 @@ def featch_images(text_queries, tgt_queries= None):
     dataset = []
     for i, text in enumerate(text_queries):
         if tgt_queries is not None:
-            images = retrieve(text, tgt_queries[i], top_k=5)
+            images = retrieve(text, tgt_queries[i], top_k=10)
             dataset.append([img['image'] for img in images])
         else:
-            images = retrieve(text, top_k=5)
+            images = retrieve(text, top_k=10)
             dataset.append([img['image'] for img in images])
             
     return dataset
