@@ -11,7 +11,7 @@ NUM_WORKERS = 4        # PyTorch DataLoader workers
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # IVF-PQ params for large scale
-N_LIST = 1000   # 1000 coarse clusters
+N_LIST = 4096   # 1000 coarse clusters
 M = 64          # 32-dim PQ sub-vectors
 N_BITS = 8      # 1 byte per subvector
 
