@@ -34,4 +34,4 @@ if __name__ == "__main__":
                     entry["distance"] = distance
                     mm_outputs[lp].append(entry)
         with open("output-mm-dict.json", "w", encoding="utf-8") as f:
-            json.dump(mm_outputs, f, ensure_ascii=False, indent=2)
+            json.dump(mm_outputs, f, ensure_ascii=False, indent=2, default=str) #    raise TypeError(f'Object of type {o.__class__.__name__} 'TypeError: Object of type float32 is not JSON serializable
