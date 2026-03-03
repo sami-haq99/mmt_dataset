@@ -21,7 +21,7 @@ if __name__ == "__main__":
     mm_outputs = {}
     with open(JSON_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
-        for lp in data[:10]:  # Process only the first 10 language pairs for demonstration
+        for lp in list(data.keys())[:10]:  # Process only the first 10 language pairs for demonstration
             if mm_outputs.get(lp) is None:
                 mm_outputs[lp] = []
             for entry in data[lp]:
