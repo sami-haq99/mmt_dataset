@@ -10,7 +10,7 @@ import csv
 
 def extract_subset(rows, target_lp="en-de", target_domain="ecommerce"):
     filtered_rows = [row for row in rows if row["lp"] == target_lp and row["domain"] == target_domain]
-
+    
 # Save filtered rows to a new CSV file
     with open(OUTPUT_FILE, "w", encoding="utf-8", newline="") as output_csvfile:
         writer = csv.DictWriter(output_csvfile, fieldnames=reader.fieldnames)
@@ -39,4 +39,6 @@ with open(CSV_FILE, "r", encoding="utf-8") as csvfile:
     print("Domains in the dataset:", domains)
     
     # Filter for en-de and ecommerce
+
+language_pairs = ['en-de', 'en-ja', 'en-zh', 'en-cs', 'en-ru']
 

@@ -20,6 +20,7 @@ model = AutoModel.from_pretrained(
 model.eval()
 model.task = "retrieval"
 
+
 def retrieve(source_text, target_text = None,  top_k=TOP_K):
     with torch.no_grad():
         if target_text is not None:
@@ -33,8 +34,8 @@ def retrieve(source_text, target_text = None,  top_k=TOP_K):
             results = []
             for i, idx in enumerate(indices[0]):
                 if idx != -1:
-                    results.append({"image": image_paths[idx], "distance": distances[0][i]})
-            return results
+                    results.append(image_paths[idx])
+            return results, distances
             
         else:
             q_emb = model.encode_text([source_text], task="retrieval", return_numpy=True)
@@ -48,5 +49,5 @@ def retrieve(source_text, target_text = None,  top_k=TOP_K):
             results = []
             for i, idx in enumerate(indices[0]):
                 if idx != -1:
-                    results.append({"image": image_paths[idx], "distance": distances[0][i]})
-            return results
+                    results.append(image_paths[idx])
+            return results, distances
