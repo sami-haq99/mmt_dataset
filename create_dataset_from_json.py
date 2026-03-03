@@ -21,10 +21,10 @@ if __name__ == "__main__":
     mm_outputs = {}
     with open(JSON_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
-        for lp in list(data.keys())[:10]:  # Process only the first 10 language pairs for demonstration
+        for lp in data: 
             if mm_outputs.get(lp) is None:
                 mm_outputs[lp] = []
-            for entry in data[lp]:
+            for entry in data[lp][:10]: #run only for few entries for testing
                 src = entry["src"]
                 ref = entry["ref"]
                 image, distance = create_dataset(src, ref) 
