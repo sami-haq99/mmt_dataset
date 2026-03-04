@@ -15,7 +15,7 @@ def featch_images(text_queries, tgt_queries= None):
             
     return dataset
 
-def featch_save_images(text_queries, tgt_queries= None, mode=None):
+def featch_save_images(text_queries, tgt_queries=None, mode=None):
     dataset = []
     for i, text in enumerate(text_queries):
         if tgt_queries is not None:
@@ -85,13 +85,13 @@ if __name__ == "__main__":
             image_names.append(line.strip())
 
 
-    src_only_dataset = featch_save_images(src_queries, 'src_only')
+    src_only_dataset = featch_save_images(src_queries, None, 'src_only')
     joint_dataset = {}
     for tgt in tgt_langs:
         joint_dataset[tgt] = featch_save_images(src_queries, tgt_queries[tgt], 'joint')
     tgt_only_dataset = {}
     for tgt in tgt_langs:
-        tgt_only_dataset[tgt] = featch_save_images(tgt_queries[tgt], 'tgt_only')
+        tgt_only_dataset[tgt] = featch_save_images(tgt_queries[tgt], None, 'tgt_only')
     
     #dump the datasets in json files
     with open(f"{input_dir}src_only_dataset.json", "w") as f:
