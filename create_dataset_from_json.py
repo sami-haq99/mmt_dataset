@@ -24,7 +24,7 @@ if __name__ == "__main__":
         for lp in data: 
             if mm_outputs.get(lp) is None:
                 mm_outputs[lp] = []
-            for entry in data[lp][:10]: #run only for few entries for testing
+            for entry in data[lp]: #run only for few entries for testing
                 src = entry["src"]
                 ref = entry["ref"]
                 image, distance = create_dataset(src, ref) 

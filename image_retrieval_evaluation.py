@@ -2,7 +2,7 @@ import csv
 import json
 from retrieve import retrieve
 import os
-
+import shutil
 def featch_images(text_queries, tgt_queries= None):
     dataset = []
     for i, text in enumerate(text_queries):
@@ -12,6 +12,30 @@ def featch_images(text_queries, tgt_queries= None):
         else:
             images = retrieve(text, top_k=15)
             dataset.append([img['image'] for img in images])
+            
+    return dataset
+
+def featch_save_images(text_queries, tgt_queries= None, mode=None):
+    dataset = []
+    for i, text in enumerate(text_queries):
+        if tgt_queries is not None:
+            images = retrieve(text, tgt_queries[i], top_k=1)
+            dataset.append(images[0] if images else None)
+            #copy the image from the retrieved path to a new directory with same name 
+            if images:
+                os.makedirs(f"./eval_data/retrieved_images_{mode}", exist_ok=True)
+                src_path = images[0]
+                dst_path = os.path.join(f"./eval_data/retrieved_images_{mode}", os.path.basename(src_path))
+                shutil.copy(src_path, dst_path)
+                
+        else:
+            images = retrieve(text, top_k=1)
+            dataset.append(images[0] if images else None)
+            if images:
+                os.makedirs(f"./eval_data/retrieved_images_{mode}", exist_ok=True)
+                src_path = images[0]
+                dst_path = os.path.join(f"./eval_data/retrieved_images_{mode}", os.path.basename(src_path))
+                shutil.copy(src_path, dst_path)
             
     return dataset
 
@@ -38,7 +62,7 @@ if __name__ == "__main__":
     
     input_dir = "./eval_data/"
     src_lang = "en"
-    tgt_langs = ["de", "fr"]
+    tgt_langs = ["fr"]
     image_file = f"{input_dir}images.txt"
     
     src_queries = []
@@ -61,13 +85,13 @@ if __name__ == "__main__":
             image_names.append(line.strip())
 
 
-    src_only_dataset = featch_images(src_queries)
+    src_only_dataset = featch_save_images(src_queries, 'src_only')
     joint_dataset = {}
     for tgt in tgt_langs:
-        joint_dataset[tgt] = featch_images(src_queries, tgt_queries[tgt])
+        joint_dataset[tgt] = featch_save_images(src_queries, tgt_queries[tgt], 'joint')
     tgt_only_dataset = {}
     for tgt in tgt_langs:
-        tgt_only_dataset[tgt] = featch_images(tgt_queries[tgt])
+        tgt_only_dataset[tgt] = featch_save_images(tgt_queries[tgt], 'tgt_only')
     
     #dump the datasets in json files
     with open(f"{input_dir}src_only_dataset.json", "w") as f:
@@ -79,7 +103,7 @@ if __name__ == "__main__":
             json.dump(tgt_only_dataset[tgt], f, indent=2)
             
     print("Calculating accuracy for each dataset:")
-    print("SRC Only Accuracy:", calculate_accuracy(src_only_dataset, image_names))
-    for tgt in tgt_langs:
-        print(f"Joint {tgt} Accuracy:", calculate_accuracy(joint_dataset[tgt], image_names))
-        print(f"TGT Only {tgt} Accuracy:", calculate_accuracy(tgt_only_dataset[tgt], image_names))
+    #print("SRC Only Accuracy:", calculate_accuracy(src_only_dataset, image_names))
+    #for tgt in tgt_langs:
+    #    print(f"Joint {tgt} Accuracy:", calculate_accuracy(joint_dataset[tgt], image_names))
+    #    print(f"TGT Only {tgt} Accuracy:", calculate_accuracy(tgt_only_dataset[tgt], image_names))
