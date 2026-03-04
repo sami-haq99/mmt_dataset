@@ -24,7 +24,7 @@ def featch_save_images(text_queries, tgt_queries= None, mode=None):
             #copy the image from the retrieved path to a new directory with same name 
             if images:
                 os.makedirs(f"./eval_data/retrieved_images_{mode}", exist_ok=True)
-                src_path = images[0]
+                src_path = images[0][0]
                 dst_path = os.path.join(f"./eval_data/retrieved_images_{mode}", os.path.basename(src_path))
                 shutil.copy(src_path, dst_path)
                 
