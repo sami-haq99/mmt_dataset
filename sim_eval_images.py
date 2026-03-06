@@ -62,7 +62,7 @@ def load_image_paths_from_txt(txt_file):
                 image_paths.append('None')
     return image_paths
 
-cand_images = load_image_paths("./eval_data/src_only_dataset.json")
+cand_images = load_image_paths("./eval_data/tgt_only_dataset.json")
 
 ref_images = load_image_paths_from_txt("./eval_data/images.txt")
 
@@ -75,6 +75,13 @@ for i in range(len(cand_images)):
         continue
     sim_score = calculate_similarity(cand, ref)
     all_scores.append(sim_score)
-    print(f"Similarity between {cand} and {ref}: {sim_score}")
+    #print(f"Similarity between {cand} and {ref}: {sim_score}")
         
 print("Average Similarity Score:", np.mean(all_scores))
+
+#save similarity scores in a text file
+with open("./eval_data/similarity_tgt_scores.txt", "w") as f:
+    #write the average similarity score at the top of the file
+    f.write(f"Average Similarity Score: {np.mean(all_scores)}\n")
+    for score in all_scores:
+        f.write(f"{score}\n")
