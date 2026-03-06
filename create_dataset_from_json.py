@@ -2,6 +2,10 @@ import csv
 import json
 from retrieve import retrieve
 
+#This script reads the filtered JSON file created from the WMT25 human evaluation CSV, extracts the source text and reference translations,
+# retrieves relevant images using a retrieval function,
+# stores the retrieved images and their relevance scores along with the original data in a new JSON file for further use in multimodal evaluation tasks.
+
 def create_dataset(src, tgt= None):
     
     images, distance = retrieve(src, tgt,top_k=1)
@@ -33,5 +37,6 @@ if __name__ == "__main__":
                     entry["image"] = image
                     entry["distance"] = distance
                     mm_outputs[lp].append(entry)
-        with open("output-mm-dict.json", "w", encoding="utf-8") as f:
-            json.dump(mm_outputs, f, ensure_ascii=False, indent=2, default=str) #    raise TypeError(f'Object of type {o.__class__.__name__} 'TypeError: Object of type float32 is not JSON serializable
+            with open("output-mm-wmt_sqm_hf.json", "w", encoding="utf-8") as f:
+                json.dump(mm_outputs, f, ensure_ascii=False, indent=2, default=str) 
+            break #remove this to run for all language pairs

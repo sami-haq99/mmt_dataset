@@ -1,6 +1,14 @@
 import pandas as pd
 import json
 
+
+#This script reads the WMT25 human evaluation CSV file, filters for specific language pairs and domain, 
+# groups the data by unique source instances, and saves the structured data in a JSON format suitable for further processing.
+# The json output file then will be used to extract the relevent images 
+
+
+
+
 # load CSV
 input_csv = "/home/sami/mmt-eval/eval-datasets/WMT24 human eval/HF WMT/wmt-sqm-human-evaluation-train.csv"
 df = pd.read_csv(input_csv)
