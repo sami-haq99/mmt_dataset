@@ -62,7 +62,7 @@ def load_image_paths_from_txt(txt_file):
                 image_paths.append('None')
     return image_paths
 
-cand_images = load_image_paths("./eval_data/tgt_only_dataset_fr.json")
+cand_images = load_image_paths("./eval_data/joint_dataset_fr.json")
 
 ref_images = load_image_paths_from_txt("./eval_data/images.txt")
 
@@ -81,7 +81,7 @@ for i in range(len(cand_images)):
 print("Average Similarity Score:", np.mean(all_scores))
 
 #save similarity scores in a text file
-with open("./eval_data/similarity_tgt_scores.txt", "w") as f:
+with open("./eval_data/similarity_joint_scores.txt", "w") as f:
     #write the average similarity score at the top of the file
     f.write(f"Average Similarity Score: {np.mean(all_scores)}\n")
     for score in all_scores:
