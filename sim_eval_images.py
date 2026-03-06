@@ -62,7 +62,7 @@ def load_image_paths_from_txt(txt_file):
                 image_paths.append('None')
     return image_paths
 
-cand_images = load_image_paths("./eval_data/tgt_only_dataset.json")
+cand_images = load_image_paths("./eval_data/tgt_only_dataset_fr.json")
 
 ref_images = load_image_paths_from_txt("./eval_data/images.txt")
 
@@ -72,6 +72,7 @@ for i in range(len(cand_images)):
     ref = ref_images[i]
     print(f"Calculating similarity for candidate: {cand} and reference: {ref}")
     if ref == 'None' or cand == 'None':
+        print(f"Skipping similarity calculation for candidate: {cand} and reference: {ref} due to missing image.")
         continue
     sim_score = calculate_similarity(cand, ref)
     all_scores.append(sim_score)
