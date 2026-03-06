@@ -37,6 +37,5 @@ if __name__ == "__main__":
                     entry["image"] = image
                     entry["distance"] = distance
                     mm_outputs[lp].append(entry)
-            with open("output-mm-wmt_sqm_hf.json", "w", encoding="utf-8") as f:
-                json.dump(mm_outputs, f, ensure_ascii=False, indent=2, default=str) 
-            break #remove this to run for all language pairs
+        with open("output-mm-dict.json", "w", encoding="utf-8") as f:
+            json.dump(mm_outputs, f, ensure_ascii=False, indent=2, default=str) 
