@@ -5,10 +5,6 @@ from transformers import AutoModel
 import faiss
 import json
 
-# This script evaluates the similarity between candidate (returned by the index) images and reference image (Coco test dataset)
-# This similarity score can be used to evaluate the performance of the retrieval system and comparison with human evaluation scores. The script calculates the similarity score for each candidate-reference pair and saves the scores in a text file for further analysis. It also prints the average similarity score across all pairs.
-
-
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 model = AutoModel.from_pretrained(
@@ -18,29 +14,45 @@ model = AutoModel.from_pretrained(
 model.eval()
 model.task = "retrieval"
 
+# Ge
+
+def maxsim_score(image_multivec, text_multivec):
+    """
+    Standard ColBERT-style late interaction.
+    For each text token, find max similarity across all image tokens.
+    Sum these up.
+    """
+    # similarity_map: (img_tokens, text_tokens)
+    sim_map = torch.einsum(
+        "id, td -> it", 
+        image_multivec, 
+        text_multivec
+    )
+    
+    # For each text token, take max over image tokens
+    # then sum across text tokens
+    score = sim_map.max(dim=0).values.sum()
+    return score
 
 #create function which takes two images and return the similarity score between them
-def calculate_similarity(image_path1, image_path2):
+def calculate_similarity(image_path1, text):
     from PIL import Image
     img1 = Image.open(image_path1).convert("RGB")
-    img2 = Image.open(image_path2).convert("RGB")
 
-    with torch.no_grad():
-        emb1 = model.encode_image([img1], task="retrieval", return_numpy=True)
-        emb2 = model.encode_image([img2], task="retrieval", return_numpy=True)
+    # shape: (num_tokens, 128) per input
+    image_multivec = model.encode_image(
+        images=[image_path1],
+        vector_type="multivector"   # per-token 128-dim vectors
+    )
 
-        if not isinstance(emb1, np.ndarray):
-            emb1 = emb1.detach().cpu().numpy()
-        if not isinstance(emb2, np.ndarray):
-            emb2 = emb2.detach().cpu().numpy()
+    text_multivec = model.encode_text(
+        texts=[text],
+        vector_type="multivector"   # per-token 128-dim vectors
+    )
 
-        faiss.normalize_L2(emb1)
-        faiss.normalize_L2(emb2)
-
-        similarity = np.dot(emb1, emb2.T).item()
+    score = maxsim_score(image_multivec, text_multivec)
+    print(f"Similarity between {image_path1} and text: {score}")
     
-    return similarity
-
 
 #load json file and each item is a path of an image
 def load_image_paths(json_file):

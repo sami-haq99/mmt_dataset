@@ -62,7 +62,7 @@ if __name__ == "__main__":
     
     input_dir = "./eval_data/"
     src_lang = "en"
-    tgt_langs = ["fr"]
+    tgt_langs = ["de"]
     image_file = f"{input_dir}images.txt"
     
     src_queries = []
@@ -85,7 +85,7 @@ if __name__ == "__main__":
             image_names.append(line.strip())
 
 
-    src_only_dataset = featch_save_images(src_queries, None, 'src_only')
+    #src_only_dataset = featch_save_images(src_queries, None, 'src_only')
     joint_dataset = {}
     for tgt in tgt_langs:
         joint_dataset[tgt] = featch_save_images(src_queries, tgt_queries[tgt], 'joint')
@@ -94,8 +94,8 @@ if __name__ == "__main__":
         tgt_only_dataset[tgt] = featch_save_images(tgt_queries[tgt], None, 'tgt_only')
     
     #dump the datasets in json files
-    with open(f"{input_dir}src_only_dataset.json", "w") as f:
-        json.dump(src_only_dataset, f, indent=2)
+    #with open(f"{input_dir}src_only_dataset.json", "w") as f:
+    #    json.dump(src_only_dataset, f, indent=2)
     for tgt in tgt_langs:
         with open(f"{input_dir}joint_dataset_{tgt}.json", "w") as f:
             json.dump(joint_dataset[tgt], f, indent=2)
