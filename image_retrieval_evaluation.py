@@ -22,20 +22,20 @@ def featch_save_images(text_queries, tgt_queries=None, mode=None):
             images = retrieve(text, tgt_queries[i], top_k=1)
             dataset.append(images[0] if images else None)
             #copy the image from the retrieved path to a new directory with same name 
-            if images:
-                os.makedirs(f"./eval_data/retrieved_images_{mode}", exist_ok=True)
-                src_path = images[0][0]
-                dst_path = os.path.join(f"./eval_data/retrieved_images_{mode}", os.path.basename(src_path))
-                shutil.copy(src_path, dst_path)
+            #if images:
+               # os.makedirs(f"./eval_data/retrieved_images_{mode}", exist_ok=True)
+               # src_path = images[0][0]
+               # dst_path = os.path.join(f"./eval_data/retrieved_images_{mode}", os.path.basename(src_path))
+               # shutil.copy(src_path, dst_path)
                 
         else:
             images = retrieve(text, top_k=1)
             dataset.append(images[0] if images else None)
-            if images:
-                os.makedirs(f"./eval_data/retrieved_images_{mode}", exist_ok=True)
-                src_path = images[0][0]
-                dst_path = os.path.join(f"./eval_data/retrieved_images_{mode}", os.path.basename(src_path))
-                shutil.copy(src_path, dst_path)
+            #if images:
+               # os.makedirs(f"./eval_data/retrieved_images_{mode}", exist_ok=True)
+               # src_path = images[0][0]
+               # dst_path = os.path.join(f"./eval_data/retrieved_images_{mode}", os.path.basename(src_path))
+               # shutil.copy(src_path, dst_path)
             
     return dataset
 
