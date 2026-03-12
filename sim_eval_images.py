@@ -1,3 +1,4 @@
+import csv
 import os
 import torch
 import numpy as np
@@ -66,7 +67,7 @@ def load_image_paths_from_txt(txt_file):
                 image_paths.append('None')
     return image_paths
 
-cand_images = load_image_paths("./eval_data/tgt_only_dataset_de.json")
+cand_images = load_image_paths("./eval_data/src_only_dataset.json")
 
 ref_images = load_image_paths_from_txt("./eval_data/images.txt")
 
@@ -77,16 +78,38 @@ for i in range(len(cand_images)):
     print(f"Calculating similarity for candidate: {cand} and reference: {ref}")
     if ref == 'None' or cand == 'None':
         print(f"Skipping similarity calculation for candidate: {cand} and reference: {ref} due to missing image.")
-        continue
+        all_scores.append(None)  # Assign a similarity score of 0 for missing images
     sim_score = calculate_similarity(cand, ref)
     all_scores.append(sim_score)
     #print(f"Similarity between {cand} and {ref}: {sim_score}")
-        
-print("Average Similarity Score:", np.mean(all_scores))
-
-#save similarity scores in a text file
-with open("./eval_data/similarity_tgt_only_de_scores.txt", "w") as f:
-    #write the average similarity score at the top of the file
-    f.write(f"Average Similarity Score: {np.mean(all_scores)}\n")
+#saveall similarity scores in a text file
+with open("./eval_data/src_only_similarity_scores.txt", "w") as f:
     for score in all_scores:
         f.write(f"{score}\n")
+#read the human evaluation scores from the csv file and save them in a list
+human_scores = []
+with open('./eval_data/eng-eng-img-retrieval_human_eval.csv', 'r') as file:
+    reader = csv.reader(file)
+    next(reader) # skip header
+    human_scores = [float(row[6]) for row in reader]
+
+human_scores  = human_scores[:len(all_scores)]  # Ensure human_scores has the same length as all_scores]
+
+#Calculate the correlation between the similarity scores and human evaluation scores
+from scipy.stats import pearsonr
+# Filter out None values from all_scores and corresponding human_scores
+filtered_scores = [(s, h) for s, h in zip(all_scores, human_scores) if s is not None]
+if filtered_scores:
+    filtered_all_scores, filtered_human_scores = zip(*filtered_scores)
+    correlation, p_value = pearsonr(filtered_all_scores, filtered_human_scores)
+    print(f"Pearson correlation between similarity scores and human evaluation scores: {correlation}, p-value: {p_value}")
+else:
+    print("No valid similarity scores to calculate correlation.")
+#print("Average Similarity Score:", np.mean(all_scores))
+
+#save similarity scores in a text file
+#with open("./eval_data/similarity_tgt_only_de_scores.txt", "w") as f:
+    #write the average similarity score at the top of the file
+#    f.write(f"Average Similarity Score: {np.mean(all_scores)}\n")
+#    for score in all_scores:
+#        f.write(f"{score}\n")
