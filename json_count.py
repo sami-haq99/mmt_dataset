@@ -5,7 +5,6 @@ import csv
 from statistics import mean, mode, median
 with open('./eval_data/eng-eng-img-retrieval_human_eval.csv', 'r') as file:
     reader = csv.reader(file)
-    next(reader) # skip header
     values = [float(row[6]) for row in reader]
     print(values)
     avg = mean(values)

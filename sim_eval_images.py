@@ -91,7 +91,7 @@ with open("./eval_data/src_only_similarity_scores.txt", "w") as f:
 human_scores = []
 with open('./eval_data/eng-eng-img-retrieval_human_eval.csv', 'r') as file:
     reader = csv.reader(file)
-    next(reader) # skip header
+
     human_scores = [float(row[6]) for row in reader]
 
 human_scores  = human_scores[:len(all_scores)]  # Ensure human_scores has the same length as all_scores]
@@ -106,6 +106,8 @@ if filtered_scores:
     print(f"Pearson correlation between similarity scores and human evaluation scores: {correlation}, p-value: {p_value}")
 else:
     print("No valid similarity scores to calculate correlation.")
+    
+    #Pearson correlation between similarity scores and human evaluation scores: -0.035609143228357176, p-value: 0.6266470978019204
 #print("Average Similarity Score:", np.mean(all_scores))
 
 #save similarity scores in a text file
