@@ -79,8 +79,9 @@ for i in range(len(cand_images)):
     if ref == 'None' or cand == 'None':
         print(f"Skipping similarity calculation for candidate: {cand} and reference: {ref} due to missing image.")
         all_scores.append(None)  # Assign a similarity score of 0 for missing images
-    sim_score = calculate_similarity(cand, ref)
-    all_scores.append(sim_score)
+    else:
+        sim_score = calculate_similarity(cand, ref)
+        all_scores.append(sim_score)
     #print(f"Similarity between {cand} and {ref}: {sim_score}")
 #saveall similarity scores in a text file
 with open("./eval_data/src_only_similarity_scores.txt", "w") as f:
