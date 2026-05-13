@@ -1,0 +1,6 @@
+Pearson correlation between similarity scores and human evaluation scores: 0.4309522796438437, p-value: 2.273385056557193e-21
+Spearman correlation between similarity scores and human evaluation scores: 0.4479250418424696, p-value: 3.7822658511860897e-23
+
+Eng_FR Joint
+Pearson correlation between similarity scores and human evaluation scores: 0.3262837335395631, p-value: 4.344266202279684e-06
+Spearman correlation between similarity scores and human evaluation scores: 0.3647883015422197, p-value: 2.285162830809828e-07
