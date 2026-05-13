@@ -51,8 +51,8 @@ Bad examples show cases where the retrieved image does not align well with the s
 
 | Text | Retrieved Image | Overlay | 
 |---|---|---|
-| A women in red heels reaching down for her tennis ball and racket. | ![Bad EN](png) | ![Bad EN](images/women.png) | ![Bad EN](images/women_overlay.png) | 
-| two cards and a motorcycle on a road being crossed by a herd of elephants. | ![Bad FR](images/elephant.png) |![Bad FR](images/motor.png) |
+| A women in red heels reaching down for her tennis ball and racket. |<img src="images/women.png" width="250"/>| <img src="images/women_overlay.png" width="250"/> | 
+| two cards and a motorcycle on a road being crossed by a herd of elephants. | <img src="images/elephant.png" width="250"/> |<img src="images/motor.png" width="250"/> |
 
 *Key tokens: `<heels>` , `<moto>`,*
 ---
