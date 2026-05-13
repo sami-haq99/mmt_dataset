@@ -2,7 +2,6 @@
 
 > **Sami Ul Haq** · **Sheila Castilho** · **Yvette Graham**  
 > ADAPT Centre, Dublin City University & Trinity College Dublin  
-> *Funded by Research Ireland under Grant Agreement No. 13/RC/2106_P2*
 
 📄 **[View Poster (Google Drive)](https://drive.google.com/file/d/1GWc6T_CVETYm5PNGqHK0K-dmyQi_vv1j/view?usp=share_link)**
 
@@ -39,7 +38,7 @@ Good examples show strong image–text alignment across languages, where the ret
 | Text | Retrieved Image | 
 |---|---|
 | A man skateboarding while walking his dog. Un homme faisant du skateboard en promenant son chien. | (images/man_skate.jpg) | (images/dog_skate.png) | 
-| A grey cat is sleeping on a blue velvet sofa. |  (images/cat.png) |  (images/cat_overlay.png) | 
+| A grey cat is sleeping on a blue velvet sofa. | ![Good EN](images/cat.png) |  ![Good EN](images/cat_overlay.png) | 
 
 *Key aligned tokens: `<man>` ↔ `<chien>`, `<walking>` ↔ `<promenant>`*
 
