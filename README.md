@@ -39,6 +39,7 @@ Good examples show strong image–text alignment across languages, where the ret
 |---|---|---|
 | A man skateboarding while walking his dog. Un homme faisant du skateboard en promenant son chien. | <img src="images/man_skate.jpg" width="250"/> | <img src="images/dog_skate.png" width="250"/> | 
 | A grey cat is sleeping on a blue velvet sofa. Eine graue Katze schläft auf einem blauen Samtsofa. | <img src="images/cat.png" width="250"/> | <img src="images/cat_overlay.png" width="250"/> |
+---
 *Key aligned tokens: `<man>` ↔ `<chien>`, `<walking>` ↔ `<promenant>`*
 
 
@@ -48,14 +49,12 @@ Good examples show strong image–text alignment across languages, where the ret
 
 Bad examples show cases where the retrieved image does not align well with the source text, the models seems to struggle with count, colors, negation or positional aspects.
 
-| Text | Retrieved Image | Issues | 
+| Text | Retrieved Image | Overlay | 
 |---|---|---|
-| English | A man skateboarding while walking his dog. | ![Good EN](images/good_example_en.jpg) | 
-| French | Un homme faisant du skateboard en promenant son chien. | ![Good FR](images/good_example_fr.jpg) |
+| A women in red heels reaching down for her tennis ball and racket. | ![Bad EN](png) | ![Bad EN](images/women.png) | ![Bad EN](images/women_overlay.png) | 
+| two cards and a motorcycle on a road being crossed by a herd of elephants. | ![Bad FR](images/elephant.png) |![Bad FR](images/motor.png) |
 
-
-> 💡 Place your example images in the [`images/`](images/) folder following the naming convention `good_example_*.jpg` / `bad_example_*.jpg`.
-
+*Key tokens: `<heels>` , `<moto>`,*
 ---
 
 
