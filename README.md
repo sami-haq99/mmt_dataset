@@ -26,7 +26,7 @@ MuTE is constructed by aligning WMT human annotations (ecommerce domain) with a 
 
 ## Dataset Generation Pipeline
 
-(images/framework.png)
+|![Good EN](images/framework.png)|
 
 
 ## Examples
@@ -35,9 +35,9 @@ MuTE is constructed by aligning WMT human annotations (ecommerce domain) with a 
 
 Good examples show strong image–text alignment across languages, where the retrieved image clearly corresponds to the meaning of the source and translation.
 
-| Text | Retrieved Image | 
+| Text | Retrieved Image | Overlay |
 |---|---|
-| A man skateboarding while walking his dog. Un homme faisant du skateboard en promenant son chien. | (images/man_skate.jpg) | (images/dog_skate.png) | 
+| A man skateboarding while walking his dog. Un homme faisant du skateboard en promenant son chien. | ![Good EN](images/man_skate.jpg) | ![Good EN](images/dog_skate.png) | 
 | A grey cat is sleeping on a blue velvet sofa. | ![Good EN](images/cat.png) |  ![Good EN](images/cat_overlay.png) | 
 
 *Key aligned tokens: `<man>` ↔ `<chien>`, `<walking>` ↔ `<promenant>`*
